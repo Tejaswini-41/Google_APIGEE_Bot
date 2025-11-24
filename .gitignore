@@ -50,6 +50,10 @@ htmlcov/
 .tox/
 
 # Databases
+chroma_db/
+chroma_db/*
+processed_docs/
+processed_docs/*
 *.db
 *.sqlite
 *.sqlite3
