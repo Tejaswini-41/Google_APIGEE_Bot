@@ -1,0 +1,1224 @@
+[
+  {
+    "content": "Securing a proxy  |  Apigee  |  Google Cloud\n\n\n\n\n\n\n\n      \n      Skip to main content\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    Documentation\n  \n    \n\n\n\n    Technology areas\n  \n    \n\n\nclose\n\n\n\n\n\n\n                      AI and ML\n                    \n\n\n\n\n\n                      Application development\n                    \n\n\n\n\n\n                      Application hosting\n                    \n\n\n\n\n\n                      Compute\n                    \n\n\n\n\n\n                      Data analytics and pipelines\n                    \n\n\n\n\n\n                      Databases\n                    \n\n\n\n\n\n                      Distributed, hybrid, and multicloud\n                    \n\n\n\n\n\n                      Generative AI\n                    \n\n\n\n\n\n                      Industry solutions\n                    \n\n\n\n\n\n                      Networking\n                    \n\n\n\n\n\n                      Observability and monitoring\n                    \n\n\n\n\n\n                      Security",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_0",
+      "chunk_index": 0,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Networking\n                    \n\n\n\n\n\n                      Observability and monitoring\n                    \n\n\n\n\n\n                      Security\n                    \n\n\n\n\n\n                      Storage\n                    \n\n\n\n\n\n\n\n\n\n    Cross-product tools\n  \n    \n\n\nclose\n\n\n\n\n\n\n                      Access and resources management\n                    \n\n\n\n\n\n                      Costs and usage management\n                    \n\n\n\n\n\n                      Google Cloud SDK, languages, frameworks, and tools\n                    \n\n\n\n\n\n                      Infrastructure as code\n                    \n\n\n\n\n\n                      Migration\n                    \n\n\n\n\n\n\n\n\n\n    Related sites\n  \n    \n\n\nclose\n\n\n\n\n\n\n                      Google Cloud Home\n                    \n\n\n\n\n\n                      Free Trial and Free Tier\n                    \n\n\n\n\n\n                      Architecture Center\n                    \n\n\n\n\n\n                      Blog",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_1",
+      "chunk_index": 1,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Free Trial and Free Tier\n                    \n\n\n\n\n\n                      Architecture Center\n                    \n\n\n\n\n\n                      Blog\n                    \n\n\n\n\n\n                      Contact Sales\n                    \n\n\n\n\n\n                      Google Cloud Developer Center\n                    \n\n\n\n\n\n                      Google Developer Center\n                    \n\n\n\n\n\n                      Google Cloud Marketplace\n                    \n\n\n\n\n\n                      Google Cloud Marketplace Documentation\n                    \n\n\n\n\n\n                      Google Cloud Skills Boost\n                    \n\n\n\n\n\n                      Google Cloud Solution Center\n                    \n\n\n\n\n\n                      Google Cloud Support\n                    \n\n\n\n\n\n                      Google Cloud Tech Youtube Channel\n                    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/\n\n\n\n\n\n\n\n\n\n\nEnglish\n\n\nDeutsch\n\n\nEspañol\n\n\nEspañol – América Latina\n\n\nFrançais\n\n\nIndonesia\n\n\nItaliano",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_2",
+      "chunk_index": 2,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "/\n\n\n\n\n\n\n\n\n\n\nEnglish\n\n\nDeutsch\n\n\nEspañol\n\n\nEspañol – América Latina\n\n\nFrançais\n\n\nIndonesia\n\n\nItaliano\n\n\nPortuguês\n\n\nPortuguês – Brasil\n\n\n中文 – 简体\n\n\n中文 – 繁體\n\n\n日本語\n\n\n한국어\n\n\n\n\n  Console\n\n\nSign in\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n        Apigee\n      \n  \n\n\n\n\n\n\n    Overview\n  \n    \n\n\n\n    Guides\n  \n    \n\n\n\n    Reference\n  \n    \n\n\n\n    Support\n  \n    \n\n\n\n    Resources\n  \n    \n\n\n\n\nContact Us\nStart free\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n      Documentation\n   \n\n\n\n\n\n      Overview\n   \n\n\n\n\n\n      Guides\n   \n\n\n\n\n\n\n\n      Reference\n   \n\n\n\n\n\n\n\n      Support\n   \n\n\n\n\n\n\n\n      Resources\n   \n\n\n\n\n\n\n\n\n\n      Technology areas\n   \n\n\n\n\n\n      More\n   \n\n\n\n\n\n\n\n\n\n      Cross-product tools\n   \n\n\n\n\n\n      More\n   \n\n\n\n\n\n\n\n\n\n      Related sites\n   \n\n\n\n\n\n      More\n   \n\n\n\n\n\n\n\n\n\n      Console\n   \n\n\n\n\n\n      Contact Us\n   \n\n\n\n\n\n      Start free\n   \n\n\n\n\n\n\n\nDISCOVER",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_3",
+      "chunk_index": 3,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Cross-product tools\n   \n\n\n\n\n\n      More\n   \n\n\n\n\n\n\n\n\n\n      Related sites\n   \n\n\n\n\n\n      More\n   \n\n\n\n\n\n\n\n\n\n      Console\n   \n\n\n\n\n\n      Contact Us\n   \n\n\n\n\n\n      Start free\n   \n\n\n\n\n\n\n\nDISCOVER\n\nWhat is Apigee?\nApigee technical feature overview\nApigee terminology\nAPI development lifecycle\nKey points of API proxy development\nApigee architecture overview\nApigee locations\nGemini Code Assist\n\nGET STARTED\n\nIntroduction to provisioning\nCompare eval and paid organizations\nProvisioning options\nPrerequisites\nAbout Apigee provisioning permissions\nNetworking options\nIntroduction to data residency\nIntroduction to CMEK\nBest practices for Apigee CMEK\nUsing organization policy constraints\nUnderstand Apigee observability\n\n\nPaid orgs\nBefore you begin\n\nSubscription\n\n\nCloud console\nSelect your projectProvision Apigee with one click",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_4",
+      "chunk_index": 4,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Paid orgs\nBefore you begin\n\nSubscription\n\n\nCloud console\nSelect your projectProvision Apigee with one click\n\nConfigure and customize\nStep 1: Enable required APIsStep 2: Set up networkingStep 3: Configure hosting and encryptionStep 4: Customize access routingRecommended next steps\n\nCommand line\nWith VPC peeringWithout VPC peering\n\nPay-as-you-go\n\n\nCloud console\nSelect your projectProvision Apigee with one click\n\nConfigure and customize\nStep 1: Enable required APIsStep 2: Set up networkingStep 3: Configure hosting and encryptionStep 4: Customize access routingRecommended next steps\n\nCommand line\nWith VPC peeringWithout VPC peering\n\n\nEval orgs\nBefore you beginWizard\n\nCommand line\nWith VPC peeringWithout VPC peering\n\n\nNext steps\nCalling a proxy with internal-only accessAccessing ApigeeUsing the UIUsing the APIGet information about calls to your APIsUsing gcloudTroubleshooting\n\nDEVELOP",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_5",
+      "chunk_index": 5,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Next steps\nCalling a proxy with internal-only accessAccessing ApigeeUsing the UIUsing the APIGet information about calls to your APIsUsing gcloudTroubleshooting\n\nDEVELOP\n\n\n\nTutorial: Building your first API proxy\nOverviewStep 1: Create an API proxyStep 2: Deploy an API proxyStep 3: Call an API proxyStep 4: Change the target endpointStep 5: Add a policyNext steps: Go deeper\nTutorial: Creating an API proxy from an OpenAPI Specification\n\n\nBuilding API proxies\nUnderstanding APIs and API proxies\n\nProgrammable proxy basics\nIntroduction to API proxy buildingCreating an API proxyEditing an API proxy (create a revision)Downloading and uploading an API proxy configuration bundleDeleting an API proxy\n\nEnvironments and organizations\nUnderstanding organizationsOverview of environments and environment groupsWorking with environmentsWorking with environment groupsBest practices\n\nRoutes and flows\nUnderstanding routesControlling API proxies with flowsConditional flows",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_6",
+      "chunk_index": 6,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Routes and flows\nUnderstanding routesControlling API proxies with flowsConditional flows\n\nFlow variables\nFlow variable overviewRequest and response flow variablesMessage flow variableConditions with flow variables\n\nShared flows and flow hooks\nCreating reusable shared flowsAttaching a shared flow using flow hooksChaining API proxies togetherHandling faults\n\n\nAdding features to a programmable API proxy\n\n\nUsing policies\nTutorial: Adding the SpikeArrest policyWhat's a policy?Attaching and configuring policies in the UIAttaching and configuring policies in XML filesAttaching a policy to a ProxyEndpoint or TargetEndpoint flowManaging resourcesAbout policy errors\n\nSecuring an API proxy\nSecurity overview\n\nIAM\nIAM-based API authentication",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_7",
+      "chunk_index": 7,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Securing an API proxy\nSecurity overview\n\nIAM\nIAM-based API authentication\n\nOAuth2\nTutorial: Securing an API proxy with OAuthGetting started with OAuth2Introduction to OAuth 2.0VideosClient credentials grant typeAuth code grant typePassword grant typeUsing JWT access tokensConfiguring a new API proxyRegistering client appsObtaining client credentialsUnderstanding OAuth endpointsRequesting tokens and codesCustomizing tokens and codesRevoking and approving tokensRevoking tokens by end user ID and app IDRevoking and approving consumer keysSending an access tokenVerifying access tokenWorking with OAuth2 scopesUsing third-party OAuth tokensHashing tokens for extra securityAdvanced OAuth2 topics\n\nAPI keys\nTutorial: Securing an API proxy with API keysAPI keysSetting up API key validationUsing Google authenticationUsing SAML policies in an API proxyContent-based securityMasking and hiding dataLast-mile security\n\nUsing AI policies\nGet started with Model ArmorGet started with semantic caching",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_8",
+      "chunk_index": 8,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Using AI policies\nGet started with Model ArmorGet started with semantic caching\n\nLimit request traffic\nRate-limitingComparing rate-limiting policies\n\nCaching and persistence\nOverviewGeneral purpose cachingResponse cachingUsing key value mapsUsing property setsSupport for HTTP response headersCache internalsVideosShaping, accessing, and converting messagesAccessing configuration dataIncorporating procedural codeAdding CORS supportEnabling distributed tracingUsing GraphQLStreaming requests and responsesStreaming server-sent eventsUsing WebSockets\n\nCreating Java callouts\nHow to create Java CalloutHow to handle JavaCallout policy errorsHow to use properties in the JavaCalloutAdding a custom Java callout security policyIntegrating with Contact Center AI\n\n\nDeploying API proxies\nDeployment overviewDeploying an API proxyUndeploying an API proxyLoad balancing across backend servers\nDeploying archives",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_9",
+      "chunk_index": 9,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Deploying API proxies\nDeployment overviewDeploying an API proxyUndeploying an API proxyLoad balancing across backend servers\nDeploying archives\n\n\nDebugging programmable proxies\nTutorial: View message data with the Debug viewDebug overviewUsing DebugUsing Offline DebugUsing performance metrics\nPerforming health checks\n\nDEVELOP (LOCAL)\n\nOverview of local development with Apigee\n\n\nGetting started\nSetting up Apigee in Cloud CodeUsing Apigee in Cloud CodeTutorial: Using Gemini Code Assist for API lifecycle management\n\nTutorial: Building and deploying your first API proxy\nOverviewStep 1: Create an Apigee workspaceStep 2: Create an API proxyStep 3: Configure and deploy an environmentStep 4: Test your APIStep 5: Change your target endpointStep 6: Attach a policyStep 7: Deploy to an Apigee environmentStep 8: Promote an archive to production",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_10",
+      "chunk_index": 10,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Developing using Apigee in Cloud Code\nManaging the Apigee workspaceDesigning and editing APIsDeveloping API proxiesDeveloping shared flowsAdding features using policiesManaging resourcesBuilding and exporting test resourcesConfiguring and deploying environmentsTesting APIsDeploying an archive to an Apigee environmentManaging the Apigee EmulatorApigee Command Palette Reference\n\nDEVELOP (Kubernetes)\n\nApigee APIM Operator for Kubernetes Overview\nBefore you begin\nInstall the Apigee APIM Operator\nInstall the Apigee APIM Operator for Apigee hybrid\nUse APIM policies with the Apigee APIM Operator\nCreate an ApigeeBackendService\nCreate an APIMExtensionPolicy\nEnable security and quota enforcement\nAdd policies to the GKE gateway\nUpdate Apigee policies with the Apigee APIM Operator\nUninstall the Apigee APIM Operator\nTroubleshoot the Apigee APIM Operator\nApigee APIM Operator resource reference\nLicenses in Apigee APIM Operator\n\nDEVELOP (Service Extensions)",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_11",
+      "chunk_index": 11,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "DEVELOP (Service Extensions)\n\nApigee Extension Processor overview\nGet started with the Apigee Extension Processor\n\nPUBLISH\n\nPublishing overview\n\n\nManaging API products\nWhat is an API product?Managing API products\n\n\nManaging client applications\nOrganizing client app ownership\n\nControlling developer access to your apps\nApp access overviewRegistering app developersImporting existing consumer keys and secrets\nDeveloper portal solutions\nAPI design overview\n\n\nBuilding your integrated portal\nIntroductionHow portal users interact with your portal \n\nGetting started\n\n\nTutorial: Building your first portal\nOverviewStep 1: Create a portalStep 2: Customize the color paletteStep 3: Customize the logoStep 4: Edit page contentStep 5: Set up navigationStep 6: Publish an APIQuick tips for customizing the sample portalBest practices for building your portal",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_12",
+      "chunk_index": 12,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Building and publishing your portal\nSteps to build your portalManaging your portalsManaging the pages in your portalDeveloping portal contentCustomizing your themeSetting up navigationPublishing your APIsManaging access to your APIs using API keysManaging the default visibilityManaging your assetsCustomizing your domainConfiguring emailConfigure a content security policyConfiguring analytics trackingAdding custom scriptsPublishing your portal contentViewing your live portalCreating a custom search page\n\nManaging user account creation and sign-in experience\nConfiguring the user account creation and sign-in experienceConfiguring identity providersManaging user accountsManaging developer teamsManaging audiences\n\nReference\nCookiesMarkdown syntax\n\n\nBuilding your portal using Drupal\nIntroduction\n\nDrupal-based developer portal in Cloud Marketplace\nOverviewGet startedCustomize your portalSupport resourcesChoosing a hosting providerSupport process for Apigee Drupal modules\n\nMONETIZE",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_13",
+      "chunk_index": 13,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Drupal-based developer portal in Cloud Marketplace\nOverviewGet startedCustomize your portalSupport resourcesChoosing a hosting providerSupport process for Apigee Drupal modules\n\nMONETIZE\n\nOverview of Apigee monetization\nSteps to use Apigee monetization\nEnabling Apigee monetization\nEnforcing monetization limits in API proxies\nEnforcing monetization quotas in API products\nManaging prepaid account balances\nManaging rate plans for API products\nIntegrating monetization in Drupal portal\nPurchasing API product subscriptions using API\nDebugging monetization using the Debug tool\nCapturing monetization data\nGenerating monetization reports\n\nADMINISTER\n\n\n\nUsers, roles, and access\nUsers and rolesApigee rolesManaging users, roles, and permissions using APIsManaging users in the UIManaging access in Google CloudAccess Apigee using Workforce Identity FederationAdding IAM Conditions to policies",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_14",
+      "chunk_index": 14,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Apigee Spaces\nApigee Spaces overviewApigee Spaces roles and permissionsCreate and manage Apigee SpacesManage API resources with Apigee SpacesMove API resources in Apigee SpacesIAM permission hierarchy in Apigee Spaces\n\n\nNetwork Configuration\nPeering rangesUsing multiple regionsManaging instancesChanging instance IPsRecreating an Apigee instance with zero downtimeUsing shared VPC networksSouthbound networking patternsNorthbound networking with Private Service ConnectMigrate northbound routing to Private Service ConnectConfigure active health check for regional failover with PSC\nClient IP resolution\n\n\nSecurity administration",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_15",
+      "chunk_index": 15,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Security administration\n\n\nTLS\nOptions for configuring TLSAccessing TLS connection information in an API proxyWorking with referencesSAMLUsing VPC Service ControlsAbout the encryption keysProvisioning NAT IPsPerformance considerations for Apigee Cloud NATCalculating static NAT IP requirementsPreventing DoS attacksIntegrate Apigee with your SIEM solutionIntegrate Apigee with Google SecOps\nManaging data collectors\nBackups\nSwitching between organizations\n\nANALYZE\n\nAnalytics overview\nUsing the analytics dashboards\n\n\nAPI metrics\nAPI proxy performanceError code analysisLatency analysisCache performanceTarget performance\n\n\nDeveloper analysis\nDeveloper engagementTraffic composition\n\n\nEnd user analysis\nDevicesGeomap\n\n\nCustom reports\nCreating and managing custom reportsAnalytics metrics, dimensions, and filters reference",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_16",
+      "chunk_index": 16,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "End user analysis\nDevicesGeomap\n\n\nCustom reports\nCreating and managing custom reportsAnalytics metrics, dimensions, and filters reference\n\n\nOperations Anomalies\nOperations Anomalies overviewInvestigate anomaliesCreate anomaly alerts\nCollecting custom data with the DataCapture policy\nExporting data from analytics\nObfuscate user data for analytics\nLooker Studio Integration\n\n\nUsing the API\nUsing the asynchronous custom reports API Using the metrics APIMetrics API examples\n\n\nTroubleshooting\nTroubleshooting with analyticsWhat does an analytics entity named 'not set' mean?\n\nAPI MONITORING\n\nAPI Monitoring overview\nCompare API Monitoring with Apigee Analytics\nUsing the Timeline view\nUsing the Investigate view\nUsing the Recent view\nSetting up alerts and notifications\nExamples of alerts\nFault codes\n\nADVANCED API SECURITY\n\nOverview of Advanced API Security\nGetting started\nDetection rules\nBest practices\n\n\nSecurity reports\nSecurity reports UISecurity reports API",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_17",
+      "chunk_index": 17,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "ADVANCED API SECURITY\n\nOverview of Advanced API Security\nGetting started\nDetection rules\nBest practices\n\n\nSecurity reports\nSecurity reports UISecurity reports API\n\n\nRisk assessment\nRisk assessment overview and UISecurity scores and profiles API\n\n\nAbuse detection\nAbuse detection UISecurity stats APIIncidents APISecurity feedback API\nSecurity alerts\n\n\nSecurity actions\nSecurity actions overview and UISecurity actions API\n\nAPI OBSERVATION\n\nOverview of API Observation\n\n\nShadow APIs\nShadow API Discovery overviewShadow API Discovery management APIsShadow API Discovery audit logging\n\nADVANCED API OPERATIONS\n\nAdvanced API Operations overview\n\n\nAnomaly detection\nAnomaly Detection overviewUsing the Anomaly Events dashboardInvestigating anomaliesCreating anomaly alerts\n\nApplication Integration\n\nUse Application Integration\nApplication Integration and Apigee proxy Integration target\nSubscription entitlements\n\n\nApplication Integration policies\nIntegrationCallout policySetIntegrationRequest policy",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_18",
+      "chunk_index": 18,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Application Integration policies\nIntegrationCallout policySetIntegrationRequest policy\n\nConnectors\n\nOverview\nGet started with connectors\nRelease notes\n\nAPI HUB\n\nWhat is Apigee API hub?\n\n\nProvision API hub\nProvision using Cloud consoleProvision using Command lineProvision using Terraform\nGet started with API hub\n\n\nQuickstarts\nOverviewAuto-register Apigee proxiesRegister an APICreate an API versionCreate and edit attributesCreate an Eventarc trigger\n\n\nAPI resources\nOverviewManage API resources\n\n\nVersions\nOverviewManage versions\n\n\nOperations\nOverviewManage operations\n\n\nSpecifications\nOverviewManage specifications\n\n\nDeployments\nOverviewManage deployments\n\n\nAPI supply chain\nOverviewCreate a dependencyManage dependencies\n\n\nAPI observations in API hub\nOverviewConfigure API observations in API hubManage API observations in API hub\n\n\nSettings\nOverviewManage attributesValidate OpenAPI specificationAuto-register Apigee proxies",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_19",
+      "chunk_index": 19,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Settings\nOverviewManage attributesValidate OpenAPI specificationAuto-register Apigee proxies\n\nPlugins\nOverviewCreate custom pluginsManage custom pluginsCreate plugin instancesManage plugins instances\n\nCurations\nOverviewCreate curationsManage curations\nSearch and filter APIs\nAudit logging for API hub\n\n\nAccess Control\nPredefined IAM rolesAdd IAM conditionsAttach and manage tagsVPC Service Controls for API hub\nAPI hub locations\nDeprovision API hub\n\n\nTutorials\nEnrich API data with custom curation in API hub\n\n\nReference\nLimits\n\nREST Reference\n\n\nv1\nOverview\n\nResources\n\nREST Resources\n\n\nprojects.locations\nOverviewcollectApiDatagetlistlookupRuntimeProjectAttachmentsearchResources\n\nprojects.locations.apiHubInstances\nOverviewcreatedeletegetlookup\n\nprojects.locations.apis\nOverviewcreatedeletegetlistpatch\n\nprojects.locations.apis.versions\nOverviewcreatedeletegetlistpatch\n\nprojects.locations.apis.versions.definitions\nOverviewget",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_20",
+      "chunk_index": 20,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "projects.locations.apis\nOverviewcreatedeletegetlistpatch\n\nprojects.locations.apis.versions\nOverviewcreatedeletegetlistpatch\n\nprojects.locations.apis.versions.definitions\nOverviewget\n\nprojects.locations.apis.versions.operations\nOverviewcreatedeletegetlistpatch\n\nprojects.locations.apis.versions.specs\nOverviewcreatedeletegetgetContentslintlistpatch\n\nprojects.locations.attributes\nOverviewcreatedeletegetlistpatch\n\nprojects.locations.curations\nOverviewcreatedeletegetlistpatch\n\nprojects.locations.dependencies\nOverviewcreatedeletegetlistpatch\n\nprojects.locations.deployments\nOverviewcreatedeletegetlistpatch\n\nprojects.locations.externalApis\nOverviewcreatedeletegetlistpatch\n\nprojects.locations.hostProjectRegistrations\nOverviewcreategetlist\n\nprojects.locations.operations\nOverviewcanceldeletegetlist\n\nprojects.locations.plugins\nOverviewcreatedeletedisableenablegetgetStyleGuidelistupdateStyleGuide",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_21",
+      "chunk_index": 21,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "projects.locations.operations\nOverviewcanceldeletegetlist\n\nprojects.locations.plugins\nOverviewcreatedeletedisableenablegetgetStyleGuidelistupdateStyleGuide\n\nprojects.locations.plugins.instances\nOverviewcreatedeletedisableActionenableActionexecuteActiongetlistpatch\n\nprojects.locations.plugins.styleGuide\nOverviewgetContents",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_22",
+      "chunk_index": 22,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "projects.locations.plugins.instances\nOverviewcreatedeletedisableActionenableActionexecuteActiongetlistpatch\n\nprojects.locations.plugins.styleGuide\nOverviewgetContents\n\nprojects.locations.runtimeProjectAttachments\nOverviewcreatedeletegetlist\nTypes\nAggregationFunctionAllowedValueAttributeValuesAuthTypeCollectApiDataResponseConfigValueOptionDisablePluginInstanceActionResponseDocumentationEnablePluginInstanceActionResponseEnumerateExtendedApisRequestEnumerateExtendedApisResponseExecutePluginInstanceActionResponseGoogleServiceAccountConfigInitializeSystemOwnedPluginRequestInitializeSystemOwnedPluginResponseInsightsMetricOperationMetadataOwnerQueryApiMetricsRequestQueryApiMetricsResponseQueryDependencyMetricsRequestQueryDependencyMetricsResponseRemoveSystemOwnedPluginRequestRemoveSystemOwnedPluginResponseSourceMetadataStyleGuideStyleGuideContentsWaitOperationRequest",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_23",
+      "chunk_index": 23,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "RPC Reference\nOverviewgoogle.cloud.apihub.v1google.cloud.apihub.v1maingoogle.cloud.commongoogle.cloud.locationgoogle.longrunninggoogle.rpc\n\nClient libraries\nOverviewC#GoJavaNode.jsPHPPython\nRelease notes\n\nEnvoy Adapter\n\n\n\nv2.0.x\nConceptsGetting startedNative Envoy example for Apigee and hybridApigee hybrid example with KubernetesOperationReferenceTroubleshooting\n\n\nv1.4.x\nConceptsGetting startedApigee hybrid exampleOperationReferenceTroubleshooting\n\n\nv1.3.x\nConceptsGetting startedApigee hybrid exampleOperationReferenceTroubleshooting\n\n\nv1.2.x\nConceptsGetting startedApigee hybrid exampleOperationReferenceTroubleshooting\n\n\nv1.1.x\nConceptsGetting startedApigee hybrid exampleOperationReferenceTroubleshooting\n\n\nv1.0.x\nConceptsGetting startedApigee hybrid exampleOperationReferenceTroubleshooting\nRelease notes\n\nHYBRID RUNTIME\n\nSupported platforms and versions\nKubernetes and custom resources used by Apigee\n\n\nv1.15\nWhat is Apigee hybrid?",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_24",
+      "chunk_index": 24,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "HYBRID RUNTIME\n\nSupported platforms and versions\nKubernetes and custom resources used by Apigee\n\n\nv1.15\nWhat is Apigee hybrid?\n\nInstall\nBig picturePrerequisitesPermissions and roles to install and manage Apigee hybrid\n\nPlan and prepare\nMinimal cluster configurationsConfiguring dedicated node poolsConfiguring Cassandra for productionConfiguring authentication for CassandraStorageClass configurationConfiguring ports and setting up firewallsUsing data residency with Apigee hybridGCP URLs to allow for hybrid\n\nPart 1: Project and org setup\nOverviewStep 1: Enable APIsStep 2: Create an organizationStep 3: Create an environment group",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_25",
+      "chunk_index": 25,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Part 1: Project and org setup\nOverviewStep 1: Enable APIsStep 2: Create an organizationStep 3: Create an environment group\n\nPart 2: Hybrid runtime setup\nBefore you beginStep 1: Create a clusterStep 2: Download the Helm chartsStep 3: Create the apigee namespaceStep 4: Set up service accountsStep 5: Create TLS certificatesStep 6: Create the overridesStep 7: Enable Control Plane accessStep 8: Install cert-managerStep 9: Install the CRDsStep 10: Install Apigee hybrid using HelmStep 11: Configure Workload Identity on GKE\n\nPart 3: Expose ingress and deploy proxy\nStep 1: Expose Apigee ingressStep 2: Deploy an API proxyUninstall hybrid runtime\n\nAdminister\nAdministration overviewTroubleshootingAutomated issue surfacingDiagnosing issues with guardrails\n\nData collection\nData collection overviewWhere is your data stored?Obfuscating user data for analytics",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_26",
+      "chunk_index": 26,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Data collection\nData collection overviewWhere is your data stored?Obfuscating user data for analytics\n\nLogging\nLogging overviewView logsLogging with HTTP proxy forwarding enabledCassandra logsMART logsRuntime logsSynchronizer logsUDCA logsAudit logging information\n\nMetrics collection\nMetrics collection overviewCluster monitoring guidelinesConfiguring metrics collectionOpenTelemetry collector with HTTP proxy forwarding enabledViewing metricsOther data collectionPod metrics annotations detailsUsing the Diagnostic collector\n\nRuntime services\nRuntime service configuration overviewManaging runtime plane components\n\nCassandra admin\nManaging Cassandra persistent volume sizeScaling Cassandra podsStoring Cassandra secrets in Hashicorp VaultRotating Cassandra credentials in Hashicorp VaultRotating Cassandra credentials in Kubernetes secrets",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_27",
+      "chunk_index": 27,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Environments\nAbout environmentsManaging environmentsCreating environmentsDeleting environmentsConfiguring virtual hostsConfiguring proxy forwardingGenerating self-signed TLS certificatesConfiguring TLS and mTLS on the ingress gatewayDNS setup quickstartSynchronizerApigee connectConfigure the MART service account\n\nService accounts\nAbout service accountsService account validationStoring service account keys in Hashicorp Vault\n\nIngress gateway\nManaging Apigee IngressMigrating to Apigee IngressEnabling non-SNI clientsObtain TLS credentials: An exampleRunning cert-manager in a custom namespaceEnhanced per-environment proxy limitsConfigure large message payload support",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_28",
+      "chunk_index": 28,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Cluster management\nConfiguring Kubernetes network policiesSecuring the runtime installationData encryptionEnabling Workload Identity on GKEEnabling Workload Identity Federation on AKS and EKSStoring data in a Kubernetes secretStoring data in an external secret managerMulti-region deploymentsAdding multiple hybrid orgs to a clusterMigrating an org to another clusterScale and autoscale servicesDecommission a hybrid regionDecommission a hybrid orgUse a private image repository with Apigee hybridApigee deployment servicesRolling updatesUsing Kubernetes TolerationsManage process ID limits\n\nCassandra backup and restore\nBackup overviewCSI backup and restore\n\nNon-CSI backup and restore\nScheduling backups in Cloud StorageScheduling backups in a remote serverMonitoring backups\n\nRestoring Cassandra backups\nRestore overviewRestoring in a single regionRestoring in multiple regionsViewing restore logs",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_29",
+      "chunk_index": 29,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Restoring Cassandra backups\nRestore overviewRestoring in a single regionRestoring in multiple regionsViewing restore logs\n\nReference\nConfiguration property referenceApigee hybrid Helm charts referenceapigee-pull-push.shapigeectlcommon.shcreate-service-accountdump_kubernetes.shUpgrading hybrid\n\n\nv1.14\nWhat is Apigee hybrid?\n\nInstall\nBig picturePrerequisitesPermissions and roles to install and manage Apigee hybrid\n\nPlan and prepare\nMinimal cluster configurationsConfiguring dedicated node poolsConfiguring Cassandra for productionConfiguring authentication for CassandraStorageClass configurationConfiguring ports and setting up firewallsUsing data residency with Apigee hybridGCP URLs to allow for hybrid\n\nPart 1: Project and org setup\nOverviewStep 1: Enable APIsStep 2: Create an organizationStep 3: Create an environment group",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_30",
+      "chunk_index": 30,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Part 1: Project and org setup\nOverviewStep 1: Enable APIsStep 2: Create an organizationStep 3: Create an environment group\n\nPart 2: Hybrid runtime setup\nBefore you beginStep 1: Create a clusterStep 2: Download the Helm chartsStep 3: Create the apigee namespaceStep 4: Set up service accountsStep 5: Create TLS certificatesStep 6: Create the overridesStep 7: Enable Control Plane accessStep 8: Install cert-managerStep 9: Install the CRDsStep 10: Install Apigee hybrid using HelmStep 11: Configure Workload Identity on GKE\n\nPart 3: Expose ingress and deploy proxy\nStep 1: Expose Apigee ingressStep 2: Deploy an API proxyUninstall hybrid runtime\n\nAdminister\nAdministration overviewTroubleshootingAutomated issue surfacingDiagnosing issues with guardrails\n\nData collection\nData collection overviewWhere is your data stored?Configure hybrid to use the new data pipelineObfuscating user data for analytics",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_31",
+      "chunk_index": 31,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Data collection\nData collection overviewWhere is your data stored?Configure hybrid to use the new data pipelineObfuscating user data for analytics\n\nLogging\nLogging overviewView logsLogging with HTTP proxy forwarding enabledCassandra logsMART logsRuntime logsSynchronizer logsUDCA logsAudit logging information\n\nMetrics collection\nMetrics collection overviewCluster monitoring guidelinesConfiguring metrics collectionOpenTelemetry collector with HTTP proxy forwarding enabledViewing metricsOther data collectionPod metrics annotations detailsUsing the Diagnostic collector\n\nRuntime services\nRuntime service configuration overviewManaging runtime plane components\n\nCassandra admin\nManaging Cassandra persistent volume sizeScaling Cassandra podsStoring Cassandra secrets in Hashicorp VaultRotating Cassandra credentials in Hashicorp VaultRotating Cassandra credentials in Kubernetes secrets",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_32",
+      "chunk_index": 32,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Environments\nAbout environmentsManaging environmentsCreating environmentsDeleting environmentsConfiguring virtual hostsConfiguring proxy forwardingGenerating self-signed TLS certificatesConfiguring TLS and mTLS on the ingress gatewayDNS setup quickstartSynchronizerApigee connectConfigure the MART service account\n\nService accounts\nAbout service accountsService account validationStoring service account keys in Hashicorp Vault\n\nIngress gateway\nManaging Apigee IngressMigrating to Apigee IngressEnabling non-SNI clientsObtain TLS credentials: An exampleRunning cert-manager in a custom namespaceEnhanced per-environment proxy limitsConfigure large message payload support",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_33",
+      "chunk_index": 33,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Cluster management\nConfiguring Kubernetes network policiesSecuring the runtime installationData encryptionEnabling Workload Identity on GKEEnabling Workload Identity Federation on AKS and EKSStoring data in a Kubernetes secretStoring data in an external secret managerMulti-region deploymentsAdding multiple hybrid orgs to a clusterMigrating an org to another clusterScale and autoscale servicesDecommission a hybrid regionDecommission a hybrid orgUse a private image repository with Apigee hybridApigee deployment servicesRolling updatesUsing Kubernetes TolerationsManage process ID limits\n\nCassandra backup and restore\nBackup overviewCSI backup and restore\n\nNon-CSI backup and restore\nScheduling backups in Cloud StorageScheduling backups in a remote serverMonitoring backups\n\nRestoring Cassandra backups\nRestore overviewRestoring in a single regionRestoring in multiple regionsViewing restore logs",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_34",
+      "chunk_index": 34,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Restoring Cassandra backups\nRestore overviewRestoring in a single regionRestoring in multiple regionsViewing restore logs\n\nReference\nConfiguration property referenceApigee hybrid Helm charts referenceapigee-pull-push.shapigeectlcommon.shcreate-service-accountdump_kubernetes.shUpgrading hybrid\n\n\nv1.13\nWhat is Apigee hybrid?\n\nInstall\nBig picturePrerequisitesPermissions and roles to install and manage Apigee hybrid\n\nPlan and prepare\nMinimal cluster configurationsConfiguring dedicated node poolsConfiguring Cassandra for productionConfiguring authentication for CassandraStorageClass configurationConfiguring ports and setting up firewallsUsing data residency with Apigee hybridGCP URLs to allow for hybrid\n\nPart 1: Project and org setup\nOverviewStep 1: Enable APIsStep 2: Create an organizationStep 3: Create an environment group",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_35",
+      "chunk_index": 35,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Part 1: Project and org setup\nOverviewStep 1: Enable APIsStep 2: Create an organizationStep 3: Create an environment group\n\nPart 2: Hybrid runtime setup\nBefore you beginStep 1: Create a clusterStep 2: Download the Helm chartsStep 3: Create the apigee namespaceStep 4: Set up service accountsStep 5: Create TLS certificatesStep 6: Create the overridesStep 7: Enable Synchronizer accessStep 8: Install cert-managerStep 9: Install the CRDsStep 10: Install Apigee hybrid using HelmStep 11: Configure Workload Identity on GKE\n\nPart 3: Expose ingress and deploy proxy\nStep 1: Expose Apigee ingressStep 2: Deploy an API proxyUninstall hybrid runtime\n\nAdminister\nAdministration overviewTroubleshootingAutomated issue surfacingDiagnosing issues with guardrails\n\nData collection\nData collection overviewWhere is your data stored?Configure hybrid to use the new data pipelineObfuscating user data for analytics",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_36",
+      "chunk_index": 36,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Data collection\nData collection overviewWhere is your data stored?Configure hybrid to use the new data pipelineObfuscating user data for analytics\n\nLogging\nLogging overviewView logsLogging with HTTP proxy forwarding enabledCassandra logsMART logsRuntime logsSynchronizer logsUDCA logsAudit logging information\n\nMetrics collection\nMetrics collection overviewCluster monitoring guidelinesConfiguring metrics collectionOpenTelemetry collector with HTTP proxy forwarding enabledViewing metricsOther data collectionPod metrics annotations detailsUsing the Diagnostic collector\n\nRuntime services\nRuntime service configuration overviewManaging runtime plane components\n\nCassandra admin\nManaging Cassandra persistent volume sizeScaling Cassandra podsStoring Cassandra secrets in Hashicorp VaultRotating Cassandra credentials in Hashicorp Vault",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_37",
+      "chunk_index": 37,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Cassandra admin\nManaging Cassandra persistent volume sizeScaling Cassandra podsStoring Cassandra secrets in Hashicorp VaultRotating Cassandra credentials in Hashicorp Vault\n\nEnvironments\nAbout environmentsManaging environmentsCreating environmentsDeleting environmentsConfiguring virtual hostsConfiguring proxy forwardingGenerating self-signed TLS certificatesConfiguring TLS and mTLS on the ingress gatewayDNS setup quickstartSynchronizerApigee connectConfigure the MART service account\n\nService accounts\nAbout service accountsService account validationStoring service account keys in Hashicorp Vault\n\nIngress gateway\nManaging Apigee IngressMigrating to Apigee IngressEnabling non-SNI clientsObtain TLS credentials: An exampleRunning cert-manager in a custom namespace",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_38",
+      "chunk_index": 38,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Ingress gateway\nManaging Apigee IngressMigrating to Apigee IngressEnabling non-SNI clientsObtain TLS credentials: An exampleRunning cert-manager in a custom namespace\n\nCluster management\nConfiguring Kubernetes network policiesSecuring the runtime installationData encryptionEnabling Workload Identity on GKEEnabling Workload Identity on AKS and EKSStoring data in a Kubernetes secretStoring data in an external secret managerMulti-region deploymentsAdding multiple hybrid orgs to a clusterMigrating an org to another clusterScale and autoscale servicesDecommission a hybrid regionDecommission a hybrid orgUse a private image repository with Apigee hybridApigee deployment servicesRolling updatesUsing Kubernetes TolerationsManage process ID limits\n\nCassandra backup and restore\nBackup overviewCSI backup and restore\n\nNon-CSI backup and restore\nScheduling backups in Cloud StorageScheduling backups in a remote serverMonitoring backups",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_39",
+      "chunk_index": 39,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Cassandra backup and restore\nBackup overviewCSI backup and restore\n\nNon-CSI backup and restore\nScheduling backups in Cloud StorageScheduling backups in a remote serverMonitoring backups\n\nRestoring Cassandra backups\nRestore overviewRestoring in a single regionRestoring in multiple regionsViewing restore logs\n\nReference\nConfiguration property referenceApigee hybrid Helm charts referenceapigee-pull-push.shapigeectlcommon.shcreate-service-accountdump_kubernetes.shUpgrading hybrid\n\n\nUnsupported versions\n\n\nv1.12\nWhat is Apigee hybrid?\n\nInstall\nBig picturePrerequisitesPermissions and roles to install and manage Apigee hybrid\n\nPlan and prepare\nMinimal cluster configurationsConfiguring dedicated node poolsConfiguring Cassandra for productionConfiguring authentication for CassandraStorageClass configurationConfiguring ports and setting up firewallsUsing data residency with Apigee hybridGCP URLs to allow for hybrid",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_40",
+      "chunk_index": 40,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Part 1: Project and org setup\nOverviewStep 1: Enable APIsStep 2: Create an organizationStep 3: Create an environment group\n\nPart 2: Hybrid runtime setup\nBefore you beginStep 1: Create a clusterStep 2: Download the Helm chartsStep 3: Create the apigee namespaceStep 4: Set up service accountsStep 5: Create TLS certificatesStep 6: Create the overridesStep 7: Enable Synchronizer accessStep 8: Install cert-managerStep 9: Install the CRDsStep 10: Check cluster readinessStep 11: Install Apigee hybrid using HelmStep 12: Configure Workload Identity on GKE\n\nPart 3: Expose ingress and deploy proxy\nStep 1: Expose Apigee ingressStep 2: Deploy an API proxyUninstall hybrid runtime\n\nAdminister\nAdministration overviewTroubleshootingAutomated issue surfacingDiagnosing issues with guardrails\n\nData collection\nData collection overviewWhere is your data stored?Obfuscating user data for analytics",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_41",
+      "chunk_index": 41,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Data collection\nData collection overviewWhere is your data stored?Obfuscating user data for analytics\n\nLogging\nLogging overviewView logsLogging with HTTP proxy forwarding enabledCassandra logsMART logsRuntime logsSynchronizer logsUDCA logsAudit logging information\n\nMetrics collection\nMetrics collection overviewCluster monitoring guidelinesConfiguring metrics collectionViewing metricsOther data collectionPod metrics annotations detailsUsing the Diagnostic collector\n\nRuntime services\nRuntime service configuration overviewManaging runtime plane components\n\nCassandra admin\nExpanding Cassandra persistent volumesScaling Cassandra podsStoring Cassandra secrets in Hashicorp Vault\n\nEnvironments\nAbout environmentsManaging environmentsCreating environmentsDeleting environmentsConfiguring virtual hostsConfiguring proxy forwardingGenerating self-signed TLS certificatesConfiguring TLS and mTLS on the ingress gatewayDNS setup quickstartSynchronizerApigee connectConfigure the MART service account",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_42",
+      "chunk_index": 42,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Service accounts\nAbout service accountsService account validationStoring service account keys in Hashicorp Vault\n\nIngress gateway\nManaging Apigee IngressMigrating to Apigee IngressEnabling non-SNI clientsObtain TLS credentials: An exampleRunning cert-manager in a custom namespace\n\nCluster management\nConfiguring Kubernetes network policiesSecuring the runtime installationData encryptionEnabling Workload Identity on GKEEnabling Workload Identity on AKS and EKSStoring data in a Kubernetes secretMulti-region deploymentsAdding multiple hybrid orgs to a clusterMigrating an org to another clusterScale and autoscale servicesDecommission a hybrid regionDecommission a hybrid orgUse a private image repository with Apigee hybridApigee deployment servicesRolling updatesUsing Kubernetes TolerationsManage process ID limits\n\nCassandra backup and restore\nBackup overviewCSI backup and restore",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_43",
+      "chunk_index": 43,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Cassandra backup and restore\nBackup overviewCSI backup and restore\n\nNon-CSI backup and restore\nScheduling backups in Cloud StorageScheduling backups in a remote serverMonitoring backups\n\nRestoring Cassandra backups\nRestore overviewRestoring in a single regionRestoring in multiple regionsViewing restore logs\n\nReference\nConfiguration property referenceApigee hybrid Helm charts referenceapigee-pull-push.shapigeectlcommon.shcreate-service-accountdump_kubernetes.shUpgrading hybridMigrate to Helm Charts from apigeectl\n\nv1.11\nWhat is Apigee hybrid?\n\nInstall\nBig picturePrerequisitesPermissions and roles to install and manage Apigee hybrid\n\nPlan and prepare\nMinimal cluster configurationsConfiguring dedicated node poolsConfiguring Cassandra for productionConfiguring authentication for CassandraStorageClass configurationConfiguring ports and setting up firewallsGCP URLs to allow for hybrid",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_44",
+      "chunk_index": 44,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Part 1: Project and org setup\nOverviewStep 1: Enable APIsStep 2: Create an organizationStep 3: Create an environment group\n\nPart 2: Hybrid runtime setup\nBefore you begin\n\nHelm runtime setup\nStep 1: Create a clusterStep 2: Download the Helm chartsStep 3: Create the apigee namespaceStep 4: Set up service accountsStep 5: Create TLS certificatesStep 6: Create the overridesStep 7: Enable Synchronizer accessStep 8: Install cert-managerStep 9: Install the CRDsStep 10: Check cluster readinessStep 11: Install Apigee hybrid using Helm chartsStep 12 (GKE Only): Configure Workload Identity on GKE\n\napigeectl runtime setup\nStep 1: Create a clusterStep 2: Install cert-managerStep 3: Install apigeectlStep 4: Create service accountsStep 5: Create TLS certificatesStep 6: Configure the clusterStep 7: Enable Synchronizer accessStep 8: Check cluster readinessStep 9: Install hybrid runtimeStep 10 (GKE Only): Configure Workload Identity on GKE",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_45",
+      "chunk_index": 45,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Part 3: Expose ingress and deploy proxy\nStep 1: Expose Apigee ingressStep 2: Deploy an API proxyUninstall hybrid runtime\n\nAdminister\nAdministration overviewTroubleshootingAutomated issue surfacing\n\nData collection\nData collection overviewWhere is your data stored?Obfuscating user data for analytics\n\nLogging\nLogging overviewView logsLogging with HTTP proxy forwarding enabledCassandra logsMART logsRuntime logsSynchronizer logsUDCA logsAudit logging information\n\nMetrics collection\nMetrics collection overviewCluster monitoring guidelinesConfiguring metrics collectionViewing metricsOther data collectionPod metrics annotations detailsUsing the Diagnostic collector\n\nRuntime services\nRuntime service configuration overviewManaging runtime plane components\n\nCassandra admin\nExpanding Cassandra persistent volumesScaling Cassandra podsStoring Cassandra secrets in Hashicorp Vault",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_46",
+      "chunk_index": 46,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Cassandra admin\nExpanding Cassandra persistent volumesScaling Cassandra podsStoring Cassandra secrets in Hashicorp Vault\n\nEnvironments\nAbout environmentsManaging environmentsCreating environmentsDeleting environmentsConfiguring virtual hostsConfiguring proxy forwardingGenerating self-signed TLS certificatesConfiguring TLS and mTLS on the ingress gatewayDNS setup quickstartSynchronizerApigee connectConfigure the MART service account\n\nService accounts\nAbout service accountsService account validation\n\nIngress gateway\nManaging Apigee IngressMigrating to Apigee IngressEnabling non-SNI and HTTP clientsObtain TLS credentials: An exampleRunning cert-manager in a custom namespace",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_47",
+      "chunk_index": 47,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Ingress gateway\nManaging Apigee IngressMigrating to Apigee IngressEnabling non-SNI and HTTP clientsObtain TLS credentials: An exampleRunning cert-manager in a custom namespace\n\nCluster management\nConfiguring Kubernetes network policiesSecuring the runtime installationData encryptionEnabling Workload Identity with Helm chartsEnabling Workload Identity with apigeectlStoring data in a Kubernetes secretMulti-region deploymentsAdding multiple hybrid orgs to a clusterMigrating an org to another clusterScale and autoscale servicesDecommission a hybrid regionDecommission a hybrid orgUse a private image repository with helm chartsUse a private image repository with apigeectlApigee deployment servicesRolling updatesUsing Kubernetes TolerationsManage process ID limits\n\nCassandra backup and restore\nBackup overviewCSI backup and restore\n\nNon-CSI backup and restore\nScheduling backups in Cloud StorageScheduling backups in a remote serverMonitoring backups",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_48",
+      "chunk_index": 48,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Cassandra backup and restore\nBackup overviewCSI backup and restore\n\nNon-CSI backup and restore\nScheduling backups in Cloud StorageScheduling backups in a remote serverMonitoring backups\n\nRestoring Cassandra backups\nRestore overviewRestoring in a single regionRestoring in multiple regionsViewing restore logs\n\nReference\nConfiguration property referenceApigee hybrid Helm charts referenceapigee-pull-push.shapigeectlcommon.shcreate-service-accountdump_kubernetes.shUpgrading hybridMigrate to Helm Charts from apigeectl\n\nv1.10\nWhat is Apigee hybrid?\n\nInstall\nBig picturePrerequisitesPermissions and roles to install and manage Apigee hybrid\n\nPlan and prepare\nMinimal cluster configurationsConfiguring dedicated node poolsConfiguring Cassandra for productionTLS configurationStorageClass configurationConfiguring ports and setting up firewallsGCP URLs to allow for hybrid\n\nPart 1: Project and org setup\nOverviewStep 1: Enable APIsStep 2: Create an organizationStep 3: Create an environment group",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_49",
+      "chunk_index": 49,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Part 1: Project and org setup\nOverviewStep 1: Enable APIsStep 2: Create an organizationStep 3: Create an environment group\n\nPart 2: Hybrid runtime setup\nBefore you beginStep 1: Create a clusterStep 2: Install cert-managerStep 3: Install apigeectlStep 4: Create service accountsStep 5: Create TLS certificatesStep 6: Configure the clusterStep 7: Enable Synchronizer accessStep 8: Check cluster readinessStep 9: Install hybrid runtimeStep 10: Expose Apigee ingressStep 11: Deploy an API proxyInstalling with Helm chartsApigee hybrid Helm migration toolUninstall hybrid runtime\n\nAdminister\nAdministration overviewTroubleshootingAutomated issue surfacing\n\nData collection\nData collection overviewWhere is your data stored?Obfuscating user data for analytics\n\nLogging\nLogging overviewView logsLogging with HTTP proxy forwarding enabledCassandra logsMART logsRuntime logsSynchronizer logsUDCA logsAudit logging information",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_50",
+      "chunk_index": 50,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Logging\nLogging overviewView logsLogging with HTTP proxy forwarding enabledCassandra logsMART logsRuntime logsSynchronizer logsUDCA logsAudit logging information\n\nMetrics collection\nMetrics collection overviewCluster monitoring guidelinesConfiguring metrics collectionViewing metricsOther data collectionPod metrics annotations detailsUsing the Diagnostic collector\n\nRuntime services\nRuntime service configuration overviewManaging runtime plane components\n\nCassandra admin\nExpanding Cassandra persistent volumesScaling Cassandra pods\n\nEnvironments\nAbout environmentsManaging environmentsCreating environmentsDeleting environmentsConfiguring virtual hostsConfiguring proxy forwardingGenerating self-signed TLS certificatesConfiguring TLS and mTLS on the ingress gatewayDNS setup quickstartSynchronizerApigee connectConfigure the MART service account\n\nService accounts\nAbout service accountsService account validation",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_51",
+      "chunk_index": 51,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Service accounts\nAbout service accountsService account validation\n\nIngress gateway\nManaging Apigee IngressMigrating to Apigee IngressEnabling non-SNI and HTTP clientsObtain TLS credentials: An exampleRunning cert-manager in a custom namespace\n\nCluster management\nConfiguring Kubernetes network policiesSecuring the runtime installationData encryptionEnabling Workload Identity with Apigee hybridStoring data in a Kubernetes secretMulti-region deploymentsAdding multiple hybrid orgs to a clusterMigrating an org to another clusterScale and autoscale servicesDecommission a hybrid regionDecommission a hybrid orgDownload images from the Container RegistryApigee deployment servicesRolling updates\n\nTools\napigee-pull-push.shapigeectlcommon.shcreate-service-accountdump_kubernetes.sh\n\nCassandra backup and restore\nBackup overviewCSI backup and restore\n\nNon-CSI backup and restore\nScheduling backups in Cloud StorageScheduling backups in a remote serverMonitoring backups",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_52",
+      "chunk_index": 52,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Cassandra backup and restore\nBackup overviewCSI backup and restore\n\nNon-CSI backup and restore\nScheduling backups in Cloud StorageScheduling backups in a remote serverMonitoring backups\n\nRestoring Cassandra backups\nRestore overviewRestoring in a single regionRestoring in multiple regionsViewing restore logsUpgrading hybridConfiguration property reference\n\nv1.9\nWhat is Apigee hybrid?\n\nInstall\nBig picturePrerequisitesPermissions and roles to install and manage Apigee hybrid\n\nPlan and prepare\nMinimal cluster configurationsConfiguring dedicated node poolsConfiguring Cassandra for productionTLS configurationStorageClass configurationConfiguring ports and setting up firewalls\n\nPart 1: Project and org setup\nOverviewStep 1: Enable APIsStep 2: Create an organizationStep 3: Create an environment group",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_53",
+      "chunk_index": 53,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Part 1: Project and org setup\nOverviewStep 1: Enable APIsStep 2: Create an organizationStep 3: Create an environment group\n\nPart 2: Hybrid runtime setup\nBefore you beginStep 1: Create a clusterStep 2: Install cert-managerStep 3: Install apigeectlStep 4: Create service accountsStep 5: Create TLS certificatesStep 6: Configure the clusterStep 7: Enable Synchronizer accessStep 8: Install hybrid runtimeStep 9: Expose Apigee ingressStep 10: Deploy an API proxyUninstall hybrid runtime\n\nAdminister\nAdministration overviewTroubleshooting\n\nData collection\nData collection overviewWhere is your data stored?Obfuscating user data for analytics\n\nLogging\nLogging overviewView logsLogging with HTTP proxy forwarding enabledCassandra logsMART logsRuntime logsSynchronizer logsUDCA logsAudit logging information",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_54",
+      "chunk_index": 54,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Logging\nLogging overviewView logsLogging with HTTP proxy forwarding enabledCassandra logsMART logsRuntime logsSynchronizer logsUDCA logsAudit logging information\n\nMetrics collection\nMetrics collection overviewCluster monitoring guidelinesConfiguring metrics collectionViewing metricsOther data collectionPod metrics annotations detailsUsing the Diagnostic collector\n\nRuntime services\nRuntime service configuration overviewManaging runtime plane components\n\nCassandra admin\nExpanding Cassandra persistent volumesScaling Cassandra pods\n\nEnvironments\nAbout environmentsManaging environmentsCreating environmentsDeleting environmentsConfiguring virtual hostsConfiguring proxy forwardingGenerating self-signed TLS certificatesConfiguring TLS and mTLS on the ingress gatewayDNS setup quickstartSynchronizerApigee connectConfigure the MART service account\n\nService accounts\nAbout service accountsService account validation",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_55",
+      "chunk_index": 55,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Service accounts\nAbout service accountsService account validation\n\nIngress gateway\nManaging Apigee IngressMigrating to Apigee IngressEnabling non-SNI and HTTP clientsObtain TLS credentials: An exampleRunning cert-manager in a custom namespace\n\nCluster management\nConfiguring Kubernetes network policiesSecuring the runtime installationData encryptionEnabling Workload Identity with Apigee hybridStoring data in a Kubernetes secretMulti-region deploymentsAdding multiple hybrid orgs to a clusterMigrating an org to another clusterScale and autoscale servicesDecommission a hybrid regionDecommission a hybrid orgDownload images from the Container RegistryApigee deployment servicesGCP URLs to allow for hybridRolling updates\n\nTools\napigee-pull-push.shapigeectlcommon.shcreate-service-accountdump_kubernetes.sh\n\nCassandra backup and restore\nBackup overviewCSI backup and restore\n\nNon-CSI backup and restore\nScheduling backups in Cloud StorageScheduling backups in a remote serverMonitoring backups",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_56",
+      "chunk_index": 56,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Cassandra backup and restore\nBackup overviewCSI backup and restore\n\nNon-CSI backup and restore\nScheduling backups in Cloud StorageScheduling backups in a remote serverMonitoring backups\n\nRestoring Cassandra backups\nRestore overviewRestoring in a single regionRestoring in multiple regionsViewing restore logsUpgrading hybridConfiguration property reference\n\nv1.8\nWhat is Apigee hybrid?\n\nInstall\nBig picturePrerequisitesPermissions and roles to install and manage Apigee hybrid\n\nPart 1: Project and org setup\nOverviewStep 1: Enable APIsStep 2: Create an organizationStep 3: Create an environment group\n\nPart 2: Hybrid runtime setup\nBefore you beginStep 1: Create a clusterStep 2: Install cert-managerStep 3: Install apigeectlStep 4: Create service accountsStep 5: Create TLS certificatesStep 6: Configure the clusterStep 7: Enable Synchronizer accessStep 8: Install hybrid runtimeStep 9: Expose Apigee ingressStep 10: Deploy an API proxyUninstall hybrid runtime\n\nAdminister\nAdministration overview",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_57",
+      "chunk_index": 57,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Administer\nAdministration overview\n\nTroubleshooting\nCassandra troubleshootingMessage processor troubleshooting guidePrinting build infoExpanding Istio replica counts when draining nodesStreamingPull errors 100%\n\nData collection\nData collection overviewWhere is your data stored?Obfuscating user data for analytics\n\nLogging\nLogging overviewView logsLogging with HTTP proxy forwarding enabledCassandra logsMART logsRuntime logsSynchronizer logsUDCA logsAudit logging information\n\nMetrics collection\nMetrics collection overviewConfiguring metrics collectionViewing metricsOther data collectionPod metrics annotations detailsUsing the Diagnostic collector\n\nRuntime services\nRuntime service configuration overviewManaging runtime plane components\n\nCassandra\nConfiguring Cassandra for productionStorageClass configurationExpanding Cassandra persistent volumesScaling Cassandra podsTLS configuration",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_58",
+      "chunk_index": 58,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Cassandra\nConfiguring Cassandra for productionStorageClass configurationExpanding Cassandra persistent volumesScaling Cassandra podsTLS configuration\n\nEnvironments\nAbout environmentsManaging environmentsCreating environmentsDeleting environmentsConfiguring virtual hostsConfiguring proxy forwardingGenerating self-signed TLS certificatesConfiguring TLS and mTLS on the ingress gatewayDNS setup quickstartSynchronizerApigee connectConfigure the MART service account\n\nService accounts\nAbout service accountsService account validation\n\nIngress gateway\nManaging Apigee IngressMigrating to Apigee IngressAdding multiple ingress gatewaysUsing Anthos Service MeshUsing WebSocketsEnabling non-SNI and HTTP clientsObtain TLS credentials: An example",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_59",
+      "chunk_index": 59,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Cluster management\nMinimum cluster configurationsConfiguring dedicated node poolsConfiguring ports and setting up firewallsSecuring the runtime installationData encryptionEnabling Workload Identity with Apigee hybridStoring data in a Kubernetes secretMulti-region deploymentsAdding multiple hybrid orgs to a clusterMigrating an org to another clusterScale and autoscale servicesDecommission a hybrid regionDecommission a hybrid orgUse a private image repositoryApigee deployment servicesGCP URLs to allow for hybridRolling updates\n\nTools\napigee-pull-push.shapigeectlcommon.shcreate-service-accountdump_kubernetes.sh\n\nCassandra backup and restore\nBackup overviewScheduling backups in Cloud StorageScheduling backups in a remote serverMonitoring backups\n\nRestoring Cassandra backups\nRestore overviewRestoring in a single regionRestoring in multiple regionsViewing restore logsUpgrading hybridConfiguration property reference\n\nv1.7\nWhat is Apigee hybrid?\n\nInstall\nBig picture",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_60",
+      "chunk_index": 60,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "v1.7\nWhat is Apigee hybrid?\n\nInstall\nBig picture\n\nPart 1: Project and org setup\nBefore you beginStep 1: Create a Google Cloud accountStep 2: Create a Google Cloud projectStep 3: Enable APIsStep 4: Create an organizationStep 5: Create an environment group\n\nPart 2: Hybrid runtime setup\nBefore you beginStep 1: Create a clusterStep 2: Install cert-managerStep 3: Install ASMStep 4: Install apigeectlStep 5: Create service accountsStep 6: Create TLS certificatesStep 7: Configure the clusterStep 8: Enable Synchronizer accessStep 9: Install hybrid runtime\n\nAfter the install: Test\nCreate and deploy a new API proxyCheck deployment statusUninstall hybrid runtime\n\nAdminister\nAdministration overview\n\nTroubleshooting\nCassandra troubleshootingMessage processor troubleshooting guidePrinting build infoExpanding Istio replica counts when draining nodesStreamingPull errors 100%\n\nData collection\nData collection overviewWhere is your data stored?Obfuscating user data for analytics",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_61",
+      "chunk_index": 61,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Data collection\nData collection overviewWhere is your data stored?Obfuscating user data for analytics\n\nLogging\nLogging overviewView logsCassandra logsMART logsRuntime logsSynchronizer logsUDCA logsAudit logging information\n\nMetrics collection\nMetrics collection overviewConfiguring metrics collectionViewing metricsOther data collectionUsing the Diagnostic collector\n\nRuntime services\nRuntime service configuration overviewManaging runtime plane components\n\nCassandra\nConfiguring Cassandra for productionStorageClass configurationExpanding Cassandra persistent volumesScaling Cassandra podsTLS configuration\n\nEnvironments\nAbout environmentsManaging environmentsCreating environmentsDeleting environmentsConfiguring virtual hostsConfiguring proxy forwardingGenerating self-signed TLS certificatesConfiguring TLS and mTLS on the Istio ingressDNS setup quickstartMART configurationSynchronizerApigee connect",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_62",
+      "chunk_index": 62,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Service accounts\nAbout service accountsService account validationUsing WebSocketsEnabling non-SNI and HTTP clientsObtain TLS credentials: An example\n\nCluster management\nMinimum cluster configurationsConfiguring dedicated node poolsConfiguring ports and setting up firewallsSecuring the runtime installationData encryptionEnabling Workload Identity with Apigee hybridStoring data in a Kubernetes secretMulti-region deploymentsAdding multiple hybrid orgs to a clusterScale and autoscale servicesDecommission a hybrid regionDecommission a hybrid orgDownloading runtime imagesApigee deployment servicesGCP URLs to allow for hybridRolling updates\n\nTools\napigee-pull-push.shapigeectlcommon.shcreate-service-accountdump_kubernetes.sh\n\nCassandra backup and restore\nBackup overviewScheduling backups in Cloud StorageScheduling backups in a remote serverMonitoring backups",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_63",
+      "chunk_index": 63,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Cassandra backup and restore\nBackup overviewScheduling backups in Cloud StorageScheduling backups in a remote serverMonitoring backups\n\nRestoring Cassandra backups\nRestore overviewRestoring in a single regionRestoring in multiple regionsViewing restore logsUpgrading hybridConfiguration property reference\n\nv1.6\nWhat is Apigee hybrid?\n\nInstall\nBig picture\n\nPart 1: Project and org setup\nBefore you beginStep 1: Create a Google Cloud accountStep 2: Create a Google Cloud projectStep 3: Enable APIsStep 4: Create an organizationStep 5: Create an environment group\n\nPart 2: Hybrid runtime setup\nBefore you beginStep 1: Create a clusterStep 2: Install cert-managerStep 3: Install ASMStep 4: Install apigeectlStep 5: Create service accountsStep 6: Create TLS certificatesStep 7: Configure the clusterStep 8: Enable Synchronizer accessStep 9: Install hybrid runtime\n\nAfter the install: Test\nCreate and deploy a new API proxyCheck deployment statusUninstall hybrid runtime",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_64",
+      "chunk_index": 64,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "After the install: Test\nCreate and deploy a new API proxyCheck deployment statusUninstall hybrid runtime\n\nAdminister\nAdministration overview\n\nTroubleshooting\nCassandra troubleshootingMessage processor troubleshooting guidePrinting build infoExpanding Istio replica counts when draining nodesStreamingPull errors 100%\n\nData collection\nData collection overviewWhere is your data stored?Obfuscating user data for analytics\n\nLogging\nLogging overviewView logsCassandra logsMART logsRuntime logsSynchronizer logsUDCA logsAudit logging information\n\nMetrics collection\nMetrics collection overviewConfiguring metrics collectionViewing metricsOther data collectionUsing the Diagnostic collector\n\nRuntime services\nRuntime service configuration overviewManaging runtime plane components\n\nCassandra\nConfiguring Cassandra for productionStorageClass configurationExpanding Cassandra persistent volumesScaling Cassandra podsTLS configuration",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_65",
+      "chunk_index": 65,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Cassandra\nConfiguring Cassandra for productionStorageClass configurationExpanding Cassandra persistent volumesScaling Cassandra podsTLS configuration\n\nEnvironments\nAbout environmentsManaging environmentsCreating environmentsDeleting environmentsConfiguring virtual hostsConfiguring proxy forwardingGenerating self-signed TLS certificatesConfiguring TLS and mTLS on the Istio ingressDNS setup quickstartMART configurationSynchronizerApigee connect\n\nService accounts\nAbout service accountsService account validationUsing WebSocketsEnabling non-SNI and HTTP clientsObtain TLS credentials: An example",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_66",
+      "chunk_index": 66,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Service accounts\nAbout service accountsService account validationUsing WebSocketsEnabling non-SNI and HTTP clientsObtain TLS credentials: An example\n\nCluster management\nMinimum cluster configurationsConfiguring dedicated node poolsConfiguring ports and setting up firewallsSecuring the runtime installationData encryptionEnabling Workload Identity with Apigee hybridStoring data in a Kubernetes secretMulti-region deploymentsAdding multiple hybrid orgs to a clusterScale and autoscale servicesDecommission a hybrid regionDownloading runtime imagesApigee deployment servicesGoogle Cloud URLs to allow for hybridRolling updates\n\nTools\napigee-pull-push.shapigeectlcommon.shcreate-service-accountdump_kubernetes.sh\n\nCassandra backup and restore\nBackup overviewScheduling backups in Cloud StorageScheduling backups in a remote serverMonitoring backups",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_67",
+      "chunk_index": 67,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Cassandra backup and restore\nBackup overviewScheduling backups in Cloud StorageScheduling backups in a remote serverMonitoring backups\n\nRestoring Cassandra backups\nRestore overviewRestoring in a single regionRestoring in multiple regionsViewing restore logsUpgrading hybridConfiguration property reference\n\nv1.5\nWhat is Apigee hybrid?\n\nInstall\nBig picture\n\nPart 1: Project and org setup\nBefore you beginStep 1: Create a Google Cloud accountStep 2: Create a Google Cloud projectStep 3: Enable APIsStep 4: Create an organizationStep 5: Create an environment group\n\nPart 2: Hybrid runtime setup\nBefore you beginStep 1: Create a clusterStep 2: Install cert-managerStep 3: Install ASMStep 4: Install apigeectlStep 5: Create service accountsStep 6: Create TLS certificatesStep 7: Configure the clusterStep 8: Enable Synchronizer accessStep 9: Install hybrid runtime\n\nAfter the install: Test\nCreate and deploy a new API proxyCheck deployment statusUninstall hybrid runtime",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_68",
+      "chunk_index": 68,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "After the install: Test\nCreate and deploy a new API proxyCheck deployment statusUninstall hybrid runtime\n\nAdminister\nAdministration overview\n\nTroubleshooting\nCassandra troubleshootingMessage processor troubleshooting guidePrinting build infoExpanding Istio replica counts when draining nodesStreamingPull errors 100%\n\nData collection\nData collection overviewWhere is your data stored?Obfuscating user data for analytics\n\nLogging\nLogging overviewView logsCassandra logsMART logsRuntime logsSynchronizer logsUDCA logsAudit logging information\n\nMetrics collection\nMetrics collection overviewConfiguring metrics collectionViewing metricsOther data collection\n\nRuntime services\nRuntime service configuration overviewManaging runtime plane components\n\nCassandra\nConfiguring Cassandra for productionStorageClass configurationExpanding Cassandra persistent volumesScaling Cassandra podsBackup and recoveryNon-GCS backup and recoveryTLS configuration",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_69",
+      "chunk_index": 69,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Cassandra\nConfiguring Cassandra for productionStorageClass configurationExpanding Cassandra persistent volumesScaling Cassandra podsBackup and recoveryNon-GCS backup and recoveryTLS configuration\n\nEnvironments\nAbout environmentsManaging environmentsCreating environmentsDeleting environmentsConfiguring virtual hostsConfiguring proxy forwardingGenerating self-signed TLS certificatesConfiguring TLS and mTLS on the Istio ingressDNS setup quickstartMART configurationSynchronizerApigee connect\n\nService accounts\nAbout service accountsService account validationUsing WebSocketsEnabling non-SNI and HTTP clientsObtain TLS credentials: An example",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_70",
+      "chunk_index": 70,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Service accounts\nAbout service accountsService account validationUsing WebSocketsEnabling non-SNI and HTTP clientsObtain TLS credentials: An example\n\nCluster management\nMinimum cluster configurationsConfiguring dedicated node poolsConfiguring ports and setting up firewallsSecuring the runtime installationData encryptionEnabling Workload Identity with Apigee hybridStoring data in a Kubernetes secretMulti-region deployments on GKE and GKE on-premMulti-region deployments on AKSScale and autoscale servicesDownloading runtime imagesApigee deployment servicesGoogle Cloud URLs to allow for hybridRolling updates\n\nTools\napigee-pull-push.shapigeectlcommon.shcreate-service-accountdump_kubernetes.shUpgrading hybridConfiguration property reference\n\nv1.4\nWhat is Apigee hybrid?\n\nInstall\nBig picture",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_71",
+      "chunk_index": 71,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Tools\napigee-pull-push.shapigeectlcommon.shcreate-service-accountdump_kubernetes.shUpgrading hybridConfiguration property reference\n\nv1.4\nWhat is Apigee hybrid?\n\nInstall\nBig picture\n\nPart 1: Project and org setup\nBefore you beginStep 1: Create a Google Cloud accountStep 2: Create a Google Cloud projectStep 3: Enable APIsStep 4: Create an organizationStep 5: Create an environment group\n\nPart 2: Hybrid runtime setup\nBefore you beginStep 1: Create a clusterStep 2: Install cert-managerStep 3: Install ASMStep 4: Install apigeectlStep 5: Create service accounts and credentialsStep 6: Configure the clusterStep 7: Install hybrid runtime\n\nAfter the install: Test\nCreate and deploy a new API proxyCheck deployment statusUninstall hybrid runtime\n\nAdminister\nAdministration overview\n\nTroubleshooting\nCassandra troubleshootingMessage processor troubleshooting guidePrinting build infoExpanding Istio replica counts when draining nodesStreamingPull errors 100%",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_72",
+      "chunk_index": 72,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Troubleshooting\nCassandra troubleshootingMessage processor troubleshooting guidePrinting build infoExpanding Istio replica counts when draining nodesStreamingPull errors 100%\n\nData collection\nData collection overviewWhere is your data stored?Obfuscating user data for analytics\n\nLogging\nLogging overviewView logsAccess logsCassandra logsMART logsRuntime logsSynchronizer logsUDCA logs\n\nMetrics collection\nMetrics collection overviewConfiguring metrics collectionViewing metricsOther data collection\n\nRuntime services\nRuntime service configuration overviewManaging runtime plane components\n\nCassandra\nConfiguring Cassandra for productionStorageClass configurationExpanding Cassandra persistent volumesScaling Cassandra podsBackup and recoveryBackup and recovery with custom storageTLS configuration",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_73",
+      "chunk_index": 73,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Environments\nAbout environmentsManaging environmentsCreating environmentsDeleting environmentsConfiguring virtual hostsConfiguring proxy forwardingGenerating self-signed TLS certificatesConfiguring TLS and mTLS on the Istio ingressDNS setup quickstart\n\nMART\nMART configurationAdding the MART IP to your orgSynchronizerApigee connect\n\nService accounts\nAbout service accountsService account validationEnabling non-SNI and HTTP clientsObtain TLS credentials: An example\n\nCluster management\nMinimum cluster configurationsConfiguring dedicated node poolsConfiguring ports and setting up firewallsSecuring the runtime installationData encryptionStoring data in a Kubernetes secretMulti-region deployments on GKE and GKE on-premMulti-region deployments on AKSScale and autoscale servicesDownloading signed runtime imagesApigee deployment servicesGoogle Cloud URLs to allow for hybridRolling updates\n\nTools\napigeectlcreate-service-accountUpgrading hybridConfiguration property reference",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_74",
+      "chunk_index": 74,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Tools\napigeectlcreate-service-accountUpgrading hybridConfiguration property reference\n\nv1.3\nWhat is Apigee hybrid?\n\nInstall\nBig picture\n\nProject and org setup\nBefore you beginStep 1: Create a Google Cloud accountStep 2: Create a Google Cloud projectStep 3: Enable APIsStep 4: Create an organizationStep 5: Configure your DNSStep 6: Create an environment group\n\nHybrid runtime setup\nBefore you begin\n\nGKE hybrid setup\nStep 1: Create a clusterStep 2: Install cert-manager and ASMStep 3: Install apigeectlStep 4: Configure the clusterStep 5: Install hybrid runtime\n\nGKE on-prem hybrid setup\nStep 1: Create a clusterStep 2: Install cert-manager and ASMStep 3: Install apigeectlStep 4: Configure the clusterStep 5: Install hybrid runtime\n\nAKS hybrid setup\nStep 1: Create a clusterStep 2: Install cert-manager and ASMStep 3: Install apigeectlStep 4: Configure the clusterStep 5: Install hybrid runtime",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_75",
+      "chunk_index": 75,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "AKS hybrid setup\nStep 1: Create a clusterStep 2: Install cert-manager and ASMStep 3: Install apigeectlStep 4: Configure the clusterStep 5: Install hybrid runtime\n\nEKS hybrid setup\nStep 1: Create a clusterStep 2: Install cert-manager and ASMStep 3: Install apigeectlStep 4: Configure the clusterStep 5: Install hybrid runtime\n\nGKE on AWS hybrid setup\nStep 1: Create a clusterStep 2: Install cert-manager and ASMStep 3: Install apigeectlStep 4: Configure the clusterStep 5: Install hybrid runtime\n\nAfter the install: Test\nCreate and deploy a new API proxyCheck deployment statusUninstall hybrid runtime\n\nAdminister\nAdministration overview\n\nTroubleshooting\nCassandra troubleshootingMessage processor troubleshooting guidePrinting build infoExpanding Istio replica counts when draining nodesStreamingPull errors 100%Remove double slashes from requests\n\nData collection\nData collection overviewWhere is your data stored?Obfuscating user data for analytics",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_76",
+      "chunk_index": 76,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Data collection\nData collection overviewWhere is your data stored?Obfuscating user data for analytics\n\nLogging\nLogging overviewView logsAccess logsCassandra logsMART logsRuntime logsSynchronizer logsUDCA logs\n\nMetrics collection\nMetrics collection overviewConfiguring metrics collectionViewing metricsOther data collection\n\nRuntime services\nRuntime service configuration overviewManaging runtime plane components\n\nCassandra\nConfiguring Cassandra for productionStorageClass configurationExpanding Cassandra persistent volumesScaling Cassandra podsBackup and recoveryTLS configuration\n\nEnvironments\nAbout environmentsManaging environmentsCreating environmentsDeleting environmentsConfiguring virtual hostsConfiguring proxy forwardingGenerating self-signed TLS certificatesConfiguring TLS and mTLS on the Istio ingressDNS setup quickstart\n\nMART\nMART configurationAdding the MART IP to your orgSynchronizerApigee connect",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_77",
+      "chunk_index": 77,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "MART\nMART configurationAdding the MART IP to your orgSynchronizerApigee connect\n\nService accounts\nAbout service accountsService account validationEnabling non-SNI and HTTP clientsObtain TLS credentials: An example\n\nCluster management\nMinimum cluster configurationsConfiguring dedicated node poolsConfiguring ports and setting up firewallsSecuring the runtime installationData encryptionStoring data in a Kubernetes secretMulti-region deployments on GKE and GKE on-premMulti-region deployments on AKSScale and autoscale servicesDownloading signed runtime imagesApigee deployment servicesGCP URLs to allow for hybridRolling updates\n\nTools\napigeectlcreate-service-accountUpgrading hybridConfiguration property reference\n\nv1.2\nWhat is Apigee hybrid?\n\nInstall\nBig picture\n\nStep-by-step GCP configuration\nBefore you beginStep 1: Create a GCP accountStep 2: Create a GCP projectStep 3: Enable APIsStep 4: Create an organizationStep 5: Add an environmentBefore you begin",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_78",
+      "chunk_index": 78,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Step-by-step GCP configuration\nBefore you beginStep 1: Create a GCP accountStep 2: Create a GCP projectStep 3: Enable APIsStep 4: Create an organizationStep 5: Add an environmentBefore you begin\n\nGKE quickstart\nStep 1: Create a clusterStep 2: Install apigeectlStep 3: Configure the clusterStep 4: Install hybrid runtime\n\nGKE on-prem quickstart\nStep 1: Create a clusterStep 2: Install apigeectlStep 3: Configure the clusterStep 4: Install hybrid runtime\n\nAKS quickstart\nStep 1: Create a clusterStep 2: Install apigeectlStep 3: Configure the clusterStep 4: Install hybrid runtime\n\nAfter the install: Test\nCreate and deploy a new API proxyCheck deployment statusUninstall hybrid runtime\n\nAdminister\nAdministration overview\n\nTroubleshooting\nCassandra troubleshootingMART troubleshootingMessage processor troubleshooting guidePrinting build infoStreamingPull errors 100%\n\nData collection\nData collection overviewWhere is your data stored?Obfuscating user data for analytics",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_79",
+      "chunk_index": 79,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Data collection\nData collection overviewWhere is your data stored?Obfuscating user data for analytics\n\nLogging\nLogging overviewView logsAccess logsCassandra logsMART logsRuntime logsSynchronizer logsUDCA logs\n\nMetrics collection\nMetrics collectin overviewConfiguring metrics collectionViewing metricsOther data collection\n\nRuntime services\nRuntime service configuration overviewManaging runtime plane components\n\nCassandra\nConfiguring Cassandra for productionStorageClass configurationExpanding Cassandra persistent volumesBackup and recoveryTLS configurationScale down\n\nEnvironments\nAbout environmentsManaging environmentsCreating environmentsDeleting environmentsConfiguring virtual hostsConfiguring proxy forwardingGenerating self-signed TLS certificates\n\nMART\nMART configurationAdding the MART IP to your orgSynchronizerApigee connect\n\nService accounts\nAbout service accountsService account validationObtain TLS credentials: An example\n\nCluster management",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_80",
+      "chunk_index": 80,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Service accounts\nAbout service accountsService account validationObtain TLS credentials: An example\n\nCluster management\n\n\nCluster requirements\nCluster overviewGKE non-productionGKE productionAnthos GKE non-productionAnthos GKE productionConfiguring ports and setting up firewallsSecuring the runtime installationData encryptionStoring data in a Kubernetes secretMulti-region deployments on GKE and GKE on-premMulti-region deployments on AKSConfiguring static IP addressesScale and autoscale servicesConfiguring dedicated node poolsDownloading signed runtime imagesApigee deployment servicesGCP URLs to allow for hybridRolling updatesUpgrading hybrid\n\nTools\napigeectlcreate-service-accountConfiguration property reference\n\nv1.1\nWhat is Apigee hybrid?\n\nInstall\nThe Big PictureBefore you begin\n\nStep-by-step GCP configuration\nStep 1: Create a GCP accountStep 2: Create a GCP projectStep 3: Enable APIsStep 4: Create an organizationStep 5: Add an environmentBefore you begin",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_81",
+      "chunk_index": 81,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Step-by-step GCP configuration\nStep 1: Create a GCP accountStep 2: Create a GCP projectStep 3: Enable APIsStep 4: Create an organizationStep 5: Add an environmentBefore you begin\n\nGKE quickstart\nStep 1: Create a clusterStep 2: Install apigeectlStep 3: Configure the clusterStep 4: Install hybrid runtime\n\nGKE on-prem quickstart\nStep 1: Create a clusterStep 2: Install apigeectlStep 3: Configure the clusterStep 4: Install hybrid runtime\n\nAKS quickstart\nStep 1: Create a clusterStep 2: Install apigeectlStep 3: Configure the clusterStep 4: Install hybrid runtime\n\nAFTER THE INSTALL: TEST\nCreate and deploy a new API proxyCheck deployment statusUninstall Hybrid runtime\n\nAdminister\nAdministration overview\n\nTroubleshooting\nCassandra troubleshootingMessage processor troubleshootingPrint build info\n\nData Collection\nData collection overviewWhere is your data stored?\n\nLogging\nLogging overviewView logsAccess logsCassandra logsMART logsRuntime logsSynchronizer logsUDCA logs",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_82",
+      "chunk_index": 82,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Data Collection\nData collection overviewWhere is your data stored?\n\nLogging\nLogging overviewView logsAccess logsCassandra logsMART logsRuntime logsSynchronizer logsUDCA logs\n\nMetrics collection\nMetrics collection overviewConfigure metrics collectionView metricsOther data collection\n\nRuntime Services\nRuntime service configuration overviewManage runtime plane components\n\nCassandra\nConfigure Cassandra for productionStorageClass configurationBackup and recoveryTLS configurationScale down\n\nEnvironments\nAbout environmentsManaging environmentsCreate environmentsDelete environmentsBase path routingGenerate self-signed TLS certificates\n\nMART\nMART configurationAdd the MART IP to an orgSynchronizer\n\nService accounts\nAbout service accountsService account validationObtain TLS credentials: An example\n\nCluster Management",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_83",
+      "chunk_index": 83,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "MART\nMART configurationAdd the MART IP to an orgSynchronizer\n\nService accounts\nAbout service accountsService account validationObtain TLS credentials: An example\n\nCluster Management\n\n\nCluster requirements\nOverviewGKE non-productionGKE productionAnthos GKE non-productionAnthos GKE productionConfigure ports and set up firewallsSecure the runtime installationData encryptionMulti-region deployments on GKE and GKE on-premMulti-region deployments on AKSConfigure static IP addressesScale and autoscale servicesConfigure dedicated node poolsDownload signed runtime imagesApigee deployment servicesRolling updatesUpgrading Apigee hybridConfiguration property reference\nRelease notes\n\nLOGGING\n\nAudit logging\nAudit logging for Apigee Connect\nLogging Apigee access logs\n\nTEST\n\nCustomer security testing requests\nPerformance testing\n\nTROUBLESHOOT\n\nTroubleshooting the Apigee installation\nLogging Apigee access logs\n\n\n\n\n\n      AI and ML\n   \n\n\n\n\n\n      Application development",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_84",
+      "chunk_index": 84,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "TROUBLESHOOT\n\nTroubleshooting the Apigee installation\nLogging Apigee access logs\n\n\n\n\n\n      AI and ML\n   \n\n\n\n\n\n      Application development\n   \n\n\n\n\n\n      Application hosting\n   \n\n\n\n\n\n      Compute\n   \n\n\n\n\n\n      Data analytics and pipelines\n   \n\n\n\n\n\n      Databases\n   \n\n\n\n\n\n      Distributed, hybrid, and multicloud\n   \n\n\n\n\n\n      Generative AI\n   \n\n\n\n\n\n      Industry solutions\n   \n\n\n\n\n\n      Networking\n   \n\n\n\n\n\n      Observability and monitoring\n   \n\n\n\n\n\n      Security\n   \n\n\n\n\n\n      Storage\n   \n\n\n\n\n\n\n\n      Access and resources management\n   \n\n\n\n\n\n      Costs and usage management\n   \n\n\n\n\n\n      Google Cloud SDK, languages, frameworks, and tools\n   \n\n\n\n\n\n      Infrastructure as code\n   \n\n\n\n\n\n      Migration\n   \n\n\n\n\n\n\n\n      Google Cloud Home\n   \n\n\n\n\n\n      Free Trial and Free Tier\n   \n\n\n\n\n\n      Architecture Center\n   \n\n\n\n\n\n      Blog\n   \n\n\n\n\n\n      Contact Sales\n   \n\n\n\n\n\n      Google Cloud Developer Center\n   \n\n\n\n\n\n      Google Developer Center",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_85",
+      "chunk_index": 85,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Architecture Center\n   \n\n\n\n\n\n      Blog\n   \n\n\n\n\n\n      Contact Sales\n   \n\n\n\n\n\n      Google Cloud Developer Center\n   \n\n\n\n\n\n      Google Developer Center\n   \n\n\n\n\n\n      Google Cloud Marketplace\n   \n\n\n\n\n\n      Google Cloud Marketplace Documentation\n   \n\n\n\n\n\n      Google Cloud Skills Boost\n   \n\n\n\n\n\n      Google Cloud Solution Center\n   \n\n\n\n\n\n      Google Cloud Support\n   \n\n\n\n\n\n      Google Cloud Tech Youtube Channel\n   \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n        Home\n      \n  \n\n\n\n\n    \n        Documentation\n      \n  \n\n\n\n\n    \n        Application development\n      \n  \n\n\n\n\n    \n        Apigee\n      \n  \n\n\n\n\n    \n        Guides\n      \n  \n\n\n\n\n\n\n\n  \n    \n    Send feedback\n  \n  \n\n\n      Securing a proxy\n\n\n      \n      Stay organized with collections\n    \n\n      \n      Save and categorize content based on your preferences.\n    \n\n\n\n\n\n\nThis page\napplies to Apigee and Apigee hybrid.\n\n\n    View \n    Apigee Edge documentation.",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_86",
+      "chunk_index": 86,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "API security involves controlling access to your APIs, guarding against malicious message\n  content, accessing and masking sensitive encrypted data at runtime, protecting your backend\n  services against direct access, and other important safeguards.\nOAuth\n  home\nGet links to introductory topics, examples, and how-to topics.\nUsing SAML policies\nGet an overview of Apigee's support for SAML, along with a pointer to the policy you'll\n  need.\nData-masking and hiding\nLearn how to mask sensitive data such as credit card numbers or health information.\nLast-mile security\nLearn how to protect yourself against threats to your backend resources.\nAPI keys\nGet an introduction to the working of API keys, the simplest form of app-based security.\nContent-based security\nLearn about the Apigee policies you can use to protect your APIs against content-carried\n  threats.\nKey\n  Value Maps and property sets\nStore data that shouldn't be hard-coded in your API proxy logic for retrieval at runtime, such",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_87",
+      "chunk_index": 87,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "threats.\nKey\n  Value Maps and property sets\nStore data that shouldn't be hard-coded in your API proxy logic for retrieval at runtime, such\n  as credentials, private keys, or tokens",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_88",
+      "chunk_index": 88,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Send feedback\n  \n  \n\n\n\nExcept as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. For details, see the Google Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.\nLast updated 2025-10-01 UTC.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhy Google\n\n\n\n            \n          \n            Choosing Google Cloud\n          \n          \n\n\n\n            \n          \n            Trust and security\n          \n          \n\n\n\n            \n          \n            Modern Infrastructure Cloud\n          \n          \n\n\n\n            \n          \n            Multicloud\n          \n          \n\n\n\n            \n          \n            Global infrastructure\n          \n          \n\n\n\n            \n          \n            Customers and case studies\n          \n          \n\n\n\n            \n          \n            Analyst reports",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_89",
+      "chunk_index": 89,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Customers and case studies\n          \n          \n\n\n\n            \n          \n            Analyst reports\n          \n          \n\n\n\n            \n              \n              \n            \n          \n            Whitepapers\n          \n          \n\n\n\n\nProducts and pricing\n\n\n\n            \n          \n            See all products\n          \n          \n\n\n\n            \n          \n            See all solutions\n          \n          \n\n\n\n            \n          \n            Google Cloud for Startups\n          \n          \n\n\n\n            \n          \n            Google Cloud Marketplace\n          \n          \n\n\n\n            \n          \n            Google Cloud pricing\n          \n          \n\n\n\n            \n              \n              \n            \n          \n            Contact sales\n          \n          \n\n\n\n\nSupport\n\n\n\n            \n          \n            Community forums\n          \n          \n\n\n\n            \n          \n            Support",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_90",
+      "chunk_index": 90,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Support\n\n\n\n            \n          \n            Community forums\n          \n          \n\n\n\n            \n          \n            Support\n          \n          \n\n\n\n            \n          \n            Release Notes\n          \n          \n\n\n\n            \n              \n              \n            \n          \n            System status\n          \n          \n\n\n\n\nResources\n\n\n\n            \n          \n            GitHub\n          \n          \n\n\n\n            \n          \n            Getting Started with Google Cloud\n          \n          \n\n\n\n            \n          \n            Google Cloud documentation\n          \n          \n\n\n\n            \n          \n            Code samples\n          \n          \n\n\n\n            \n          \n            Cloud Architecture Center\n          \n          \n\n\n\n            \n          \n            Training and Certification\n          \n          \n\n\n\n            \n              \n              \n            \n          \n            Developer Center\n          \n          \n\n\n\n\nEngage",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_91",
+      "chunk_index": 91,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "Developer Center\n          \n          \n\n\n\n\nEngage\n\n\n\n            \n          \n            Blog\n          \n          \n\n\n\n            \n          \n            Events\n          \n          \n\n\n\n            \n          \n            X (Twitter)\n          \n          \n\n\n\n            \n          \n            Google Cloud on YouTube\n          \n          \n\n\n\n            \n          \n            Google Cloud Tech on YouTube\n          \n          \n\n\n\n            \n          \n            Become a Partner\n          \n          \n\n\n\n            \n          \n            Google Cloud Affiliate Program\n          \n          \n\n\n\n            \n              \n              \n            \n          \n            Press Corner\n          \n          \n\n\n\n\n\n\n\n\n\n\n\n\n          About Google\n        \n\n\n\n          Privacy\n        \n\n\n\n          Site terms\n        \n\n\n\n          Google Cloud terms\n        \n\n\n\n          Manage cookies",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_92",
+      "chunk_index": 92,
+      "total_chunks": 94
+    }
+  },
+  {
+    "content": "About Google\n        \n\n\n\n          Privacy\n        \n\n\n\n          Site terms\n        \n\n\n\n          Google Cloud terms\n        \n\n\n\n          Manage cookies\n        \n\n\n\n          Our third decade of climate action: join us\n        \n\n\nSign up for the Google Cloud newsletter\n\n          Subscribe\n        \n\n\n\n\n\nEnglish\n\n\nDeutsch\n\n\nEspañol\n\n\nEspañol – América Latina\n\n\nFrançais\n\n\nIndonesia\n\n\nItaliano\n\n\nPortuguês\n\n\nPortuguês – Brasil\n\n\n中文 – 简体\n\n\n中文 – 繁體\n\n\n日本語\n\n\n한국어",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/security/api-security",
+      "title": "Api Security",
+      "language": "en",
+      "category": "security",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/security/api-security_93",
+      "chunk_index": 93,
+      "total_chunks": 94
+    }
+  }
+]

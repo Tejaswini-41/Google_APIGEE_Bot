@@ -1,0 +1,431 @@
+[
+  {
+    "content": "Policy reference overview  |  Apigee  |  Google Cloud\n\n\n\n\n\n\n\n      \n      Skip to main content\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    Documentation\n  \n    \n\n\n\n    Technology areas\n  \n    \n\n\nclose\n\n\n\n\n\n\n                      AI and ML\n                    \n\n\n\n\n\n                      Application development\n                    \n\n\n\n\n\n                      Application hosting\n                    \n\n\n\n\n\n                      Compute\n                    \n\n\n\n\n\n                      Data analytics and pipelines\n                    \n\n\n\n\n\n                      Databases\n                    \n\n\n\n\n\n                      Distributed, hybrid, and multicloud\n                    \n\n\n\n\n\n                      Generative AI\n                    \n\n\n\n\n\n                      Industry solutions\n                    \n\n\n\n\n\n                      Networking\n                    \n\n\n\n\n\n                      Observability and monitoring",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_0",
+      "chunk_index": 0,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "Networking\n                    \n\n\n\n\n\n                      Observability and monitoring\n                    \n\n\n\n\n\n                      Security\n                    \n\n\n\n\n\n                      Storage\n                    \n\n\n\n\n\n\n\n\n\n    Cross-product tools\n  \n    \n\n\nclose\n\n\n\n\n\n\n                      Access and resources management\n                    \n\n\n\n\n\n                      Costs and usage management\n                    \n\n\n\n\n\n                      Google Cloud SDK, languages, frameworks, and tools\n                    \n\n\n\n\n\n                      Infrastructure as code\n                    \n\n\n\n\n\n                      Migration\n                    \n\n\n\n\n\n\n\n\n\n    Related sites\n  \n    \n\n\nclose\n\n\n\n\n\n\n                      Google Cloud Home\n                    \n\n\n\n\n\n                      Free Trial and Free Tier\n                    \n\n\n\n\n\n                      Architecture Center\n                    \n\n\n\n\n\n                      Blog",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_1",
+      "chunk_index": 1,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "Free Trial and Free Tier\n                    \n\n\n\n\n\n                      Architecture Center\n                    \n\n\n\n\n\n                      Blog\n                    \n\n\n\n\n\n                      Contact Sales\n                    \n\n\n\n\n\n                      Google Cloud Developer Center\n                    \n\n\n\n\n\n                      Google Developer Center\n                    \n\n\n\n\n\n                      Google Cloud Marketplace\n                    \n\n\n\n\n\n                      Google Cloud Marketplace Documentation\n                    \n\n\n\n\n\n                      Google Cloud Skills Boost\n                    \n\n\n\n\n\n                      Google Cloud Solution Center\n                    \n\n\n\n\n\n                      Google Cloud Support\n                    \n\n\n\n\n\n                      Google Cloud Tech Youtube Channel\n                    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/\n\n\n\n\n\n\n\n\n\n\nEnglish\n\n\nDeutsch\n\n\nEspañol\n\n\nEspañol – América Latina\n\n\nFrançais\n\n\nIndonesia\n\n\nItaliano",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_2",
+      "chunk_index": 2,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "/\n\n\n\n\n\n\n\n\n\n\nEnglish\n\n\nDeutsch\n\n\nEspañol\n\n\nEspañol – América Latina\n\n\nFrançais\n\n\nIndonesia\n\n\nItaliano\n\n\nPortuguês\n\n\nPortuguês – Brasil\n\n\n中文 – 简体\n\n\n中文 – 繁體\n\n\n日本語\n\n\n한국어\n\n\n\n\n  Console\n\n\nSign in\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n        Apigee\n      \n  \n\n\n\n\n\n\n    Overview\n  \n    \n\n\n\n    Guides\n  \n    \n\n\n\n    Reference\n  \n    \n\n\n\n    Support\n  \n    \n\n\n\n    Resources\n  \n    \n\n\n\n\nContact Us\nStart free\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n      Documentation\n   \n\n\n\n\n\n      Overview\n   \n\n\n\n\n\n      Guides\n   \n\n\n\n\n\n\n\n      Reference\n   \n\n\n\n\n\n\n\n      Support\n   \n\n\n\n\n\n\n\n      Resources\n   \n\n\n\n\n\n\n\n\n\n      Technology areas\n   \n\n\n\n\n\n      More\n   \n\n\n\n\n\n\n\n\n\n      Cross-product tools\n   \n\n\n\n\n\n      More\n   \n\n\n\n\n\n\n\n\n\n      Related sites\n   \n\n\n\n\n\n      More\n   \n\n\n\n\n\n\n\n\n\n      Console\n   \n\n\n\n\n\n      Contact Us\n   \n\n\n\n\n\n      Start free\n   \n\n\n\n\n\n\n\nAPIGEE API\n\nOverview\n\n\nv1\n\nREST Resources",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_3",
+      "chunk_index": 3,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "More\n   \n\n\n\n\n\n\n\n\n\n      Related sites\n   \n\n\n\n\n\n      More\n   \n\n\n\n\n\n\n\n\n\n      Console\n   \n\n\n\n\n\n      Contact Us\n   \n\n\n\n\n\n      Start free\n   \n\n\n\n\n\n\n\nAPIGEE API\n\nOverview\n\n\nv1\n\nREST Resources\n\n\norganizations\nOverviewcreatedeletegetgetControlPlaneAccessgetProjectMappinggetSecuritySettingsgetSyncAuthorizationlistsetAddonssetSyncAuthorizationupdateupdateControlPlaneAccessupdateSecuritySettings\n\norganizations.analytics.datastores\nOverviewcreatedeletegetlisttestupdate\n\norganizations.apiproducts\nOverviewattributescreatedeletegetlistmoveupdate\n\norganizations.apiproducts.attributes\nOverviewdeletegetlistupdateApiProductAttribute\n\norganizations.apiproducts.rateplans\nOverviewcreatedeletegetlistupdate\n\norganizations.apis\nOverviewcreatedeletegetlistmovepatch\n\norganizations.apis.debugsessions\nOverviewlist\n\norganizations.apis.deployments\nOverviewlist\n\norganizations.apis.keyvaluemaps\nOverviewcreatedeletelist\n\norganizations.apis.keyvaluemaps.entries\nOverviewcreatedeletegetlistupdate",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_4",
+      "chunk_index": 4,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "organizations.apis.deployments\nOverviewlist\n\norganizations.apis.keyvaluemaps\nOverviewcreatedeletelist\n\norganizations.apis.keyvaluemaps.entries\nOverviewcreatedeletegetlistupdate\n\norganizations.apis.revisions\nOverviewdeletegetlistupdateApiProxyRevision\n\norganizations.apis.revisions.deployments\nOverviewlist\n\norganizations.appgroups\nOverviewcreatedeletegetlistupdate\n\norganizations.appgroups.apps\nOverviewcreatedeletegetlistupdate\n\norganizations.appgroups.apps.keys\nOverviewcreatedeletegetupdateAppGroupAppKey\n\norganizations.appgroups.apps.keys.apiproducts\nOverviewdeleteupdateAppGroupAppKeyApiProduct\n\norganizations.apps\nOverviewgetlist\n\norganizations.datacollectors\nOverviewcreatedeletegetlistpatch\n\norganizations.deployments\nOverviewlist\n\norganizations.developers\nOverviewattributescreatedeletegetgetBalancegetMonetizationConfiglistsetDeveloperStatusupdateupdateMonetizationConfig\n\norganizations.developers.apps\nOverviewattributescreatedeletegenerateKeyPairOrUpdateDeveloperAppStatusgetlistupdate",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_5",
+      "chunk_index": 5,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "organizations.developers.apps\nOverviewattributescreatedeletegenerateKeyPairOrUpdateDeveloperAppStatusgetlistupdate\n\norganizations.developers.apps.attributes\nOverviewdeletegetlistupdateDeveloperAppAttribute\n\norganizations.developers.apps.keys\nOverviewcreatedeletegetreplaceDeveloperAppKeyupdateDeveloperAppKey\n\norganizations.developers.apps.keys.apiproducts\nOverviewdeleteupdateDeveloperAppKeyApiProduct\n\norganizations.developers.apps.keys.create\nOverviewcreate\n\norganizations.developers.attributes\nOverviewdeletegetlistupdateDeveloperAttribute\n\norganizations.developers.balance\nOverviewadjustcredit\n\norganizations.developers.subscriptions\nOverviewcreateexpiregetlist\n\norganizations.dnsZones\nOverviewcreatedeletegetlist\n\norganizations.endpointAttachments\nOverviewcreatedeletegetlist\n\norganizations.envgroups\nOverviewcreatedeletegetlistpatch\n\norganizations.envgroups.attachments\nOverviewcreatedeletegetlist",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_6",
+      "chunk_index": 6,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "organizations.endpointAttachments\nOverviewcreatedeletegetlist\n\norganizations.envgroups\nOverviewcreatedeletegetlistpatch\n\norganizations.envgroups.attachments\nOverviewcreatedeletegetlist\n\norganizations.environments\nOverviewcreatedeletegetgetAddonsConfiggetApiSecurityRuntimeConfiggetDebugmaskgetIamPolicygetSecurityActionsConfiggetTraceConfiglistmodifyEnvironmentsetIamPolicytestIamPermissionsupdateupdateDebugmaskupdateEnvironmentupdateSecurityActionsConfigupdateTraceConfig\n\norganizations.environments.addonsConfig\nOverviewsetAddonEnablement\n\norganizations.environments.analytics.admin\nOverviewgetSchemav2\n\norganizations.environments.analytics.exports\nOverviewcreategetlist\n\norganizations.environments.apis.deployments\nOverviewlist\n\norganizations.environments.apis.revisions.debugsessions\nOverviewcreatedeleteDatagetlist\n\norganizations.environments.apis.revisions.debugsessions.data\nOverviewgetlist",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_7",
+      "chunk_index": 7,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "organizations.environments.apis.revisions.debugsessions\nOverviewcreatedeleteDatagetlist\n\norganizations.environments.apis.revisions.debugsessions.data\nOverviewgetlist\n\norganizations.environments.apis.revisions.deployments\nOverviewdeploygenerateDeployChangeReportgenerateUndeployChangeReportgetundeploy\n\norganizations.environments.archiveDeployments\nOverviewcreatedeletegenerateDownloadUrlgenerateUploadUrlgetlistpatch\n\norganizations.environments.caches\nOverviewdeletelist\n\norganizations.environments.deployments\nOverviewgetgetIamPolicylistsetIamPolicytestIamPermissions\n\norganizations.environments.flowhooks\nOverviewattachSharedFlowToFlowHookdetachSharedFlowFromFlowHookgetlist\n\norganizations.environments.keystores\nOverviewcreatedeletegetlist\n\norganizations.environments.keystores.aliases\nOverviewcreatecsrdeletegetgetCertificatelistupdate\n\norganizations.environments.keyvaluemaps\nOverviewcreatedeletelist\n\norganizations.environments.keyvaluemaps.entries\nOverviewcreatedeletegetlistupdate",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_8",
+      "chunk_index": 8,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "organizations.environments.keyvaluemaps\nOverviewcreatedeletelist\n\norganizations.environments.keyvaluemaps.entries\nOverviewcreatedeletegetlistupdate\n\norganizations.environments.optimizedStats\nOverviewget\n\norganizations.environments.queries\nOverviewcreategetgetResultgetResulturllist\n\norganizations.environments.references\nOverviewcreatedeletegetlistupdate\n\norganizations.environments.resourcefiles\nOverviewcreatedeletegetlistlistEnvironmentResourcesupdate\n\norganizations.environments.securityActions\nOverviewcreatedeletedisableenablegetlistpatch\n\norganizations.environments.securityIncidents\nOverviewbatchUpdategetlistpatch\n\norganizations.environments.securityReports\nOverviewcreategetgetResultgetResultViewlist\n\norganizations.environments.securityStats\nOverviewqueryTabularStatsqueryTimeSeriesStats\n\norganizations.environments.sharedflows.deployments\nOverviewlist\n\norganizations.environments.sharedflows.revisions.deployments\nOverviewdeploygetundeploy\n\norganizations.environments.stats\nOverviewget",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_9",
+      "chunk_index": 9,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "organizations.environments.sharedflows.deployments\nOverviewlist\n\norganizations.environments.sharedflows.revisions.deployments\nOverviewdeploygetundeploy\n\norganizations.environments.stats\nOverviewget\n\norganizations.environments.targetservers\nOverviewcreatedeletegetlistupdate\n\norganizations.environments.traceConfig.overrides\nOverviewcreatedeletegetlistpatch\n\norganizations.hostQueries\nOverviewcreategetgetResultgetResultViewlist\n\norganizations.hostSecurityReports\nOverviewcreategetgetResultgetResultViewlist\n\norganizations.hostStats\nOverviewget\n\norganizations.instances\nOverviewcreatedeletegetlistpatch\n\norganizations.instances.attachments\nOverviewcreatedeletegetlist\n\norganizations.instances.natAddresses\nOverviewactivatecreatedeletegetlist\n\norganizations.keyvaluemaps\nOverviewcreatedeletelist\n\norganizations.keyvaluemaps.entries\nOverviewcreatedeletegetlistupdate\n\norganizations.operations\nOverviewgetlist\n\norganizations.optimizedHostStats\nOverviewget",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_10",
+      "chunk_index": 10,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "organizations.keyvaluemaps.entries\nOverviewcreatedeletegetlistupdate\n\norganizations.operations\nOverviewgetlist\n\norganizations.optimizedHostStats\nOverviewget\n\norganizations.reports\nOverviewcreatedeletegetlistupdate\n\norganizations.securityAssessmentResults\nOverviewbatchCompute\n\norganizations.securityFeedback\nOverviewcreatedeletegetlistpatch\n\norganizations.securityMonitoringConditions\nOverviewcreatedeletegetlistpatch\n\norganizations.securityProfiles\nOverviewcreatedeletegetlistlistRevisionspatch\n\norganizations.securityProfiles.environments\nOverviewcomputeEnvironmentScorescreatedelete\n\norganizations.securityProfilesV2\nOverviewcreatedeletegetlistpatch\n\norganizations.sharedflows\nOverviewcreatedeletegetlistmove\n\norganizations.sharedflows.deployments\nOverviewlist\n\norganizations.sharedflows.revisions\nOverviewdeletegetlistupdateSharedFlowRevision\n\norganizations.sharedflows.revisions.deployments\nOverviewlist\n\norganizations.sites.apicategories\nOverviewcreatedeletegetlistpatch",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_11",
+      "chunk_index": 11,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "organizations.sharedflows.revisions.deployments\nOverviewlist\n\norganizations.sites.apicategories\nOverviewcreatedeletegetlistpatch\n\norganizations.sites.apidocs\nOverviewcreatedeletegetgetDocumentationlistupdateupdateDocumentation\n\norganizations.spaces\nOverviewcreatedeletegetgetIamPolicylistpatchsetIamPolicytestIamPermissions",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_12",
+      "chunk_index": 12,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "organizations.spaces\nOverviewcreatedeletegetgetIamPolicylistpatchsetIamPolicytestIamPermissions\n\nprojects\nOverviewprovisionOrganization\nTypes\nAliasApiCategoryResponseApiDocDocumentationApiDocDocumentationResponseApiDocResponseApiProductRefApiProxyTypeAsyncQueryAttributesBadBundleConfigVersionControlPlaneAccessCredentialDebugMaskDeleteResponseDeploymentChangeReportDeveloperBalanceDeveloperMonetizationConfigEntityMetadataExportGetPolicyOptionsIntervalInvalidResourceStatusErrorDetailsListAsyncQueriesResponseListDeploymentsResponseListEnvironmentResourcesResponseListKeyValueEntriesResponseListSecurityReportsResponseMetadataMetricAggregationMissingSpecErrorDetailsOperationMetadataOperationTypeOrderOrganizationProjectMappingPolicyPropertiesPropertyQueryQueryMetadataResourceFilesSecurityActionsConfigSecurityReportSecurityReportMetadataSecurityReportQuerySecurityReportResultViewSecuritySettingsStateStatusSyncAuthorizationTestIamPermissionsResponseTraceConfigWaitOperationRequest",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_13",
+      "chunk_index": 13,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "API OBSERVATION\n\n\n\nREST Reference\n\n\nv1alpha\nOverview\n\nResources\n\nREST Resources\n\n\nprojects.locations\nOverviewgetlistlistApiObservationTags\n\nprojects.locations.observationJobs\nOverviewcreatedeletedisableenablegetlist\n\nprojects.locations.observationJobs.apiObservations\nOverviewbatchEditTagsgetlist\n\nprojects.locations.observationJobs.apiObservations.apiOperations\nOverviewgetlist\n\nprojects.locations.observationSources\nOverviewcreatedeletegetlist\n\nprojects.locations.operations\nOverviewcanceldeletegetlist\nTypes\nApiDiscoveryOperationMetadataOperationMetadataWaitOperationRequest\n\n\nRPC Reference\nOverviewgoogle.cloud.apim.v1alphagoogle.cloud.apim.v1maingoogle.cloud.commongoogle.cloud.locationgoogle.longrunninggoogle.rpc\n\nAPPLICATION INTEGRATIONS API\n\nAll APIs and references\n\nCONNECTORS API\n\nOverview\n\nAPIGEE API HUB\n\n\n\nREST Reference\n\n\nv1\nOverview\n\nResources\n\nREST Resources\n\n\nprojects.locations\nOverviewcollectApiDatagetlistlookupRuntimeProjectAttachmentsearchResources",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_14",
+      "chunk_index": 14,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "CONNECTORS API\n\nOverview\n\nAPIGEE API HUB\n\n\n\nREST Reference\n\n\nv1\nOverview\n\nResources\n\nREST Resources\n\n\nprojects.locations\nOverviewcollectApiDatagetlistlookupRuntimeProjectAttachmentsearchResources\n\nprojects.locations.apiHubInstances\nOverviewcreatedeletegetlookup\n\nprojects.locations.apis\nOverviewcreatedeletegetlistpatch\n\nprojects.locations.apis.versions\nOverviewcreatedeletegetlistpatch\n\nprojects.locations.apis.versions.definitions\nOverviewget\n\nprojects.locations.apis.versions.operations\nOverviewcreatedeletegetlistpatch\n\nprojects.locations.apis.versions.specs\nOverviewcreatedeletegetgetContentslintlistpatch\n\nprojects.locations.attributes\nOverviewcreatedeletegetlistpatch\n\nprojects.locations.curations\nOverviewcreatedeletegetlistpatch\n\nprojects.locations.dependencies\nOverviewcreatedeletegetlistpatch\n\nprojects.locations.deployments\nOverviewcreatedeletegetlistpatch\n\nprojects.locations.externalApis\nOverviewcreatedeletegetlistpatch",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_15",
+      "chunk_index": 15,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "projects.locations.dependencies\nOverviewcreatedeletegetlistpatch\n\nprojects.locations.deployments\nOverviewcreatedeletegetlistpatch\n\nprojects.locations.externalApis\nOverviewcreatedeletegetlistpatch\n\nprojects.locations.hostProjectRegistrations\nOverviewcreategetlist\n\nprojects.locations.operations\nOverviewcanceldeletegetlist\n\nprojects.locations.plugins\nOverviewcreatedeletedisableenablegetgetStyleGuidelistupdateStyleGuide\n\nprojects.locations.plugins.instances\nOverviewcreatedeletedisableActionenableActionexecuteActiongetlistpatch\n\nprojects.locations.plugins.styleGuide\nOverviewgetContents",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_16",
+      "chunk_index": 16,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "projects.locations.plugins.instances\nOverviewcreatedeletedisableActionenableActionexecuteActiongetlistpatch\n\nprojects.locations.plugins.styleGuide\nOverviewgetContents\n\nprojects.locations.runtimeProjectAttachments\nOverviewcreatedeletegetlist\nTypes\nAggregationFunctionAllowedValueAttributeValuesAuthTypeCollectApiDataResponseConfigValueOptionDisablePluginInstanceActionResponseDocumentationEnablePluginInstanceActionResponseEnumerateExtendedApisRequestEnumerateExtendedApisResponseExecutePluginInstanceActionResponseGoogleServiceAccountConfigInitializeSystemOwnedPluginRequestInitializeSystemOwnedPluginResponseInsightsMetricOperationMetadataOwnerQueryApiMetricsRequestQueryApiMetricsResponseQueryDependencyMetricsRequestQueryDependencyMetricsResponseRemoveSystemOwnedPluginRequestRemoveSystemOwnedPluginResponseSourceMetadataStyleGuideStyleGuideContentsWaitOperationRequest",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_17",
+      "chunk_index": 17,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "RPC Reference\nOverviewgoogle.cloud.apihub.v1google.cloud.apihub.v1maingoogle.cloud.commongoogle.cloud.locationgoogle.longrunninggoogle.rpc\n\nAPI PROXIES\n\nAPI proxy configuration reference\nEndpoint properties reference\nShared flow bundle configuration reference\n\nFLOWS\n\nFlow configuration\nFlow variables\nConditions\n\nPOLICIES\n\nPolicies overview\n\n\nPolicies\n\n\nStandard policies\nAccessControlAssertConditionCORSDecodeJWTExternalCalloutGraphQLHMACHTTPModifierJSONtoXMLOASValidationPublishMessageRaiseFaultReadPropertySetSOAPMessageValidationSpikeArrestVerifyIAMVerifyJWTXMLtoJSON\n\nExtensible policies\nAccessEntityAssignMessageBasicAuthentication\n\nAI Policies\nSanitizeUserPromptSanitizeLLMResponseSemanticCacheLookupSemanticCachePopulate\n\nCache Policies\nInvalidateCacheLookupCachePopulateCacheResponseCacheWorking with cache keysDataCaptureExtractVariablesFlowCallout\n\nApplication Integration policies\nIntegrationCallout policySetIntegrationRequest policyJavaCalloutJavaScriptJSONThreatProtection",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_18",
+      "chunk_index": 18,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "Application Integration policies\nIntegrationCallout policySetIntegrationRequest policyJavaCalloutJavaScriptJSONThreatProtection\n\n JWS and JWT policies\nJWS and JWT policies overview\n\n JWS policies\nDecodeJWSGenerateJWSVerifyJWS\n\n JWT policies\nGenerateJWTKeyValueMapOperationsMessageLoggingMonetizationLimitsCheck\n\n OAuth v2 Policies\nOAuthV2SetOAuthV2InfoGetOAuthV2InfoDeleteOAuthV2InfoRevokeOAuthV2OAuth HTTP error responsesParseDialogflowRequestPythonScriptQuotaRegularExpressionProtectionResetQuotaSAMLAssertionServiceCalloutSetDialogflowResponseTraceCaptureVerifyAPIKeyXMLThreatProtectionXSLTransform\nPolicy errors\nJavaScript object model\nJava permission reference\n\nOTHER REFERENCES\n\nMessage template functions reference\nGlossary\n\n\n\n\n\n      AI and ML\n   \n\n\n\n\n\n      Application development\n   \n\n\n\n\n\n      Application hosting\n   \n\n\n\n\n\n      Compute\n   \n\n\n\n\n\n      Data analytics and pipelines\n   \n\n\n\n\n\n      Databases\n   \n\n\n\n\n\n      Distributed, hybrid, and multicloud",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_19",
+      "chunk_index": 19,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "Application hosting\n   \n\n\n\n\n\n      Compute\n   \n\n\n\n\n\n      Data analytics and pipelines\n   \n\n\n\n\n\n      Databases\n   \n\n\n\n\n\n      Distributed, hybrid, and multicloud\n   \n\n\n\n\n\n      Generative AI\n   \n\n\n\n\n\n      Industry solutions\n   \n\n\n\n\n\n      Networking\n   \n\n\n\n\n\n      Observability and monitoring\n   \n\n\n\n\n\n      Security\n   \n\n\n\n\n\n      Storage\n   \n\n\n\n\n\n\n\n      Access and resources management\n   \n\n\n\n\n\n      Costs and usage management\n   \n\n\n\n\n\n      Google Cloud SDK, languages, frameworks, and tools\n   \n\n\n\n\n\n      Infrastructure as code\n   \n\n\n\n\n\n      Migration\n   \n\n\n\n\n\n\n\n      Google Cloud Home\n   \n\n\n\n\n\n      Free Trial and Free Tier\n   \n\n\n\n\n\n      Architecture Center\n   \n\n\n\n\n\n      Blog\n   \n\n\n\n\n\n      Contact Sales\n   \n\n\n\n\n\n      Google Cloud Developer Center\n   \n\n\n\n\n\n      Google Developer Center\n   \n\n\n\n\n\n      Google Cloud Marketplace\n   \n\n\n\n\n\n      Google Cloud Marketplace Documentation\n   \n\n\n\n\n\n      Google Cloud Skills Boost\n   \n\n\n\n\n\n      Google Cloud Solution Center",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_20",
+      "chunk_index": 20,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "Google Cloud Marketplace\n   \n\n\n\n\n\n      Google Cloud Marketplace Documentation\n   \n\n\n\n\n\n      Google Cloud Skills Boost\n   \n\n\n\n\n\n      Google Cloud Solution Center\n   \n\n\n\n\n\n      Google Cloud Support\n   \n\n\n\n\n\n      Google Cloud Tech Youtube Channel\n   \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n        Home\n      \n  \n\n\n\n\n    \n        Documentation\n      \n  \n\n\n\n\n    \n        Application development\n      \n  \n\n\n\n\n    \n        Apigee\n      \n  \n\n\n\n\n    \n        Reference\n      \n  \n\n\n\n\n\n\n\n  \n    \n    Send feedback\n  \n  \n\n\n      Policy reference overview\n\n\n      \n      Stay organized with collections\n    \n\n      \n      Save and categorize content based on your preferences.\n    \n\n\n\n\n\n\nThis page\napplies to Apigee and Apigee hybrid.\n\n\n    View \n    Apigee Edge documentation.",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_21",
+      "chunk_index": 21,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "Save and categorize content based on your preferences.\n    \n\n\n\n\n\n\nThis page\napplies to Apigee and Apigee hybrid.\n\n\n    View \n    Apigee Edge documentation.\n\n\n\n\n\nApigee's policies augment your APIs to control\n  traffic, enhance performance, enforce security, and increase the utility of your APIs, without\n  requiring you to write code or modify backend services.\nIn addition, Apigee provides extension policies that let you implement custom logic in the\n  form of JavaScript, Python, Java, and XSLT stylesheets.\nPolicy categories and types\nA policy's category indicates the functional area (for example, security or mediation) for the policy.\n  Policies are shown sorted by category below.\nThe policy type refers to how the policy can be used in Apigee:",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_22",
+      "chunk_index": 22,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "Standard policies are suitable for internal development and lightweight API solutions.\n    Standard policies can be used with any\n    environment type.\n    To see the list of standard policies, see\n    Standard policies by category.\nExtensible policies provide more functionality than standard policies, including for\n     traffic management, mediation, and security. The extensible policies also\n     include policies to implement custom logic in the form of JavaScript, Python, Java, and XSLT\n     stylesheets.\n      Extensible policies can be used with intermediate and comprehensive environment types\n     only. Using an extensible policy automatically converts that proxy to an\n     Extensible proxy,\n     which could have cost and other implications. Check the\n     Pay-as-you-go entitlements\n     and Subscription 2024 for information. To see the list of extensible policies, see\n    Extensible policies by category.",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_23",
+      "chunk_index": 23,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "For Pay-as-you-go users, the types of policies you can use in a proxy depend on the\n  environment types\n  you plan to deploy that proxy to. See Pay-as-you-go for more information.\nIf there are two policies, one standard and one extensible, that would both perform the functions\n  you need, use the standard policy.\nStandard policies by category\nFollowing are the categories for the standard policies:\n\n\n\nTraffic management policies\nMediation policies\nSecurity policies\nExtension policies\n\n\n\n\n\nLet you control quotas and mitigate the effects of API traffic spikes.\n\nSpikeArrest policy\n\n\n\nLet you perform message transformation, parsing, and validation, as\n        well as raise faults and alerts.\n\nCORS policy\nGraphQL policy\nHTTPModifier policy\nJSONtoXML policy\nOASValidation policy\nPublishMessage policy\nRaiseFault policy\nReadPropertySet policy\nSOAPMessageValidation policy\nXMLtoJSON policy\n\n\n\nLet you apply security-related policies.",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_24",
+      "chunk_index": 24,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "Let you apply security-related policies.\n\nAccessControl policy\nHMAC policy\nJWT policies:\n            \nDecodeJWT policy\nVerifyJWT policy\n\n\nVerifyIAM policy\n\n\n\nLet you define custom policy functionality, such as service callout and message data\n        collection.\n\nAssertCondition policy\nExternalCallout policy\n\n\n\n\n\nExtensible policies by category\nFollowing are the extensible policies, by category. Proxies with extensible policies can only be\n  deployed to intermediate and comprehensive environments. Extensible policies are indicated in the user\n  interface with this icon:\n  .\n\n\n\n\nTraffic management policies\nMediation policies\nSecurity policies\nExtension policies\nAI policies\n\n\n\n\n\nLet you configure caching, control quotas, mitigate the effects of spikes, and\n            perform other functions related to your API traffic.\n\nCaching policies:\n              \nInvalidateCache policy\nLookupCache policy\nPopulateCache policy\nResponseCache policy\n\n\nQuota policy\nResetQuota policy",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_25",
+      "chunk_index": 25,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "Caching policies:\n              \nInvalidateCache policy\nLookupCache policy\nPopulateCache policy\nResponseCache policy\n\n\nQuota policy\nResetQuota policy\n\n\n\nLet you perform message transformation, parsing, and validation, as\n          well as raise faults and alerts.\n\nAccessEntity policy\nAssignMessage policy\nExtractVariables policy\nKeyValueMapOperations policy\nMonetizationLimitsCheck policy\nParseDialogflowRequest policy\nSetDialogflowResponse policy\nXSLTransform policy\n\n\n\nLet you control access to your APIs with OAuth, API key validation,\n          and other threat protection features.\n\nBasicAuthentication policy\nJSONThreatProtection policy\nJWS policies:\n              \nDecodeJWS policy\nGenerateJWS policy\nVerifyJWS policy\n\n\nJWT policies:\n              \nGenerateJWT policy\n\n\nOAuth v2 policies:\n              \nDeleteOAuthv2Info policy\nGetOAuthv2Info policy\nOAuthv2 policy\nRevokeOAuthv2 policy\nSetOAuth v2 Info policy",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_26",
+      "chunk_index": 26,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "JWT policies:\n              \nGenerateJWT policy\n\n\nOAuth v2 policies:\n              \nDeleteOAuthv2Info policy\nGetOAuthv2Info policy\nOAuthv2 policy\nRevokeOAuthv2 policy\nSetOAuth v2 Info policy\n\nRegularExpressionProtection policy\nSAMLAssertion policy\nVerifyAPIKey policy\nXMLThreatProtection policy\n\n\n\nLet you define custom policy functionality, such as service callout, message data\n          collection, and calling Java, JavaScript, and Python scripts.\n\nDataCapture policy\nFlowCallout policy\nIntegrationCallout policy\nJavaCallout policy\nJavaScript policy\nMessageLogging policy\nPythonScript policy\nServiceCallout policy\nSetIntegrationRequest policy\nTraceCapture policy\n\n\n\nLet you optimize and secure the performance of AI workloads and models.\n\nSemanticCacheLookup policy\nSemanticCachePopulate policy\nSanitizeUserPrompt policy\nSanitizeModelResponse policy\n\n\n\n\n\n\n\n\n\n\n\n  \n    \n    Send feedback",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_27",
+      "chunk_index": 27,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "SemanticCacheLookup policy\nSemanticCachePopulate policy\nSanitizeUserPrompt policy\nSanitizeModelResponse policy\n\n\n\n\n\n\n\n\n\n\n\n  \n    \n    Send feedback\n  \n  \n\n\n\nExcept as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. For details, see the Google Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.\nLast updated 2025-10-01 UTC.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhy Google\n\n\n\n            \n          \n            Choosing Google Cloud\n          \n          \n\n\n\n            \n          \n            Trust and security\n          \n          \n\n\n\n            \n          \n            Modern Infrastructure Cloud\n          \n          \n\n\n\n            \n          \n            Multicloud\n          \n          \n\n\n\n            \n          \n            Global infrastructure",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_28",
+      "chunk_index": 28,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "Multicloud\n          \n          \n\n\n\n            \n          \n            Global infrastructure\n          \n          \n\n\n\n            \n          \n            Customers and case studies\n          \n          \n\n\n\n            \n          \n            Analyst reports\n          \n          \n\n\n\n            \n              \n              \n            \n          \n            Whitepapers\n          \n          \n\n\n\n\nProducts and pricing\n\n\n\n            \n          \n            See all products\n          \n          \n\n\n\n            \n          \n            See all solutions\n          \n          \n\n\n\n            \n          \n            Google Cloud for Startups\n          \n          \n\n\n\n            \n          \n            Google Cloud Marketplace\n          \n          \n\n\n\n            \n          \n            Google Cloud pricing\n          \n          \n\n\n\n            \n              \n              \n            \n          \n            Contact sales",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_29",
+      "chunk_index": 29,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "Google Cloud pricing\n          \n          \n\n\n\n            \n              \n              \n            \n          \n            Contact sales\n          \n          \n\n\n\n\nSupport\n\n\n\n            \n          \n            Community forums\n          \n          \n\n\n\n            \n          \n            Support\n          \n          \n\n\n\n            \n          \n            Release Notes\n          \n          \n\n\n\n            \n              \n              \n            \n          \n            System status\n          \n          \n\n\n\n\nResources\n\n\n\n            \n          \n            GitHub\n          \n          \n\n\n\n            \n          \n            Getting Started with Google Cloud\n          \n          \n\n\n\n            \n          \n            Google Cloud documentation\n          \n          \n\n\n\n            \n          \n            Code samples\n          \n          \n\n\n\n            \n          \n            Cloud Architecture Center",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_30",
+      "chunk_index": 30,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "Code samples\n          \n          \n\n\n\n            \n          \n            Cloud Architecture Center\n          \n          \n\n\n\n            \n          \n            Training and Certification\n          \n          \n\n\n\n            \n              \n              \n            \n          \n            Developer Center\n          \n          \n\n\n\n\nEngage\n\n\n\n            \n          \n            Blog\n          \n          \n\n\n\n            \n          \n            Events\n          \n          \n\n\n\n            \n          \n            X (Twitter)\n          \n          \n\n\n\n            \n          \n            Google Cloud on YouTube\n          \n          \n\n\n\n            \n          \n            Google Cloud Tech on YouTube\n          \n          \n\n\n\n            \n          \n            Become a Partner\n          \n          \n\n\n\n            \n          \n            Google Cloud Affiliate Program",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_31",
+      "chunk_index": 31,
+      "total_chunks": 33
+    }
+  },
+  {
+    "content": "Become a Partner\n          \n          \n\n\n\n            \n          \n            Google Cloud Affiliate Program\n          \n          \n\n\n\n            \n              \n              \n            \n          \n            Press Corner\n          \n          \n\n\n\n\n\n\n\n\n\n\n\n\n          About Google\n        \n\n\n\n          Privacy\n        \n\n\n\n          Site terms\n        \n\n\n\n          Google Cloud terms\n        \n\n\n\n          Manage cookies\n        \n\n\n\n          Our third decade of climate action: join us\n        \n\n\nSign up for the Google Cloud newsletter\n\n          Subscribe\n        \n\n\n\n\n\nEnglish\n\n\nDeutsch\n\n\nEspañol\n\n\nEspañol – América Latina\n\n\nFrançais\n\n\nIndonesia\n\n\nItaliano\n\n\nPortuguês\n\n\nPortuguês – Brasil\n\n\n中文 – 简体\n\n\n中文 – 繁體\n\n\n日本語\n\n\n한국어",
+    "metadata": {
+      "source": "https://cloud.google.com/apigee/docs/api-platform/reference/policies",
+      "title": "Policies",
+      "language": "en",
+      "category": "reference",
+      "type": "web_doc",
+      "chunk_id": "https://cloud.google.com/apigee/docs/api-platform/reference/policies_32",
+      "chunk_index": 32,
+      "total_chunks": 33
+    }
+  }
+]

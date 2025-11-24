@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "created_at": "2025-10-03T16:56:02.325390",
+    "source": "minimal_catalog_with_scraped_docs",
+    "total_policies": 15
+  },
+  "policies": {
+    "VerifyAPIKey": {
+      "category": "security",
+      "keywords": [
+        "api key",
+        "apikey",
+        "key auth",
+        "verify key",
+        "authentication"
+      ]
+    },
+    "OAuthV2": {
+      "category": "security",
+      "keywords": [
+        "oauth",
+        "oauth2",
+        "access token",
+        "bearer token",
+        "authorization"
+      ]
+    },
+    "JavaScript": {
+      "category": "logic",
+      "keywords": [
+        "javascript",
+        "js",
+        "custom logic",
+        "script",
+        "code execution"
+      ]
+    },
+    "ServiceCallout": {
+      "category": "external",
+      "keywords": [
+        "service callout",
+        "http callout",
+        "external api",
+        "backend call"
+      ]
+    },
+    "CORS": {
+      "category": "headers",
+      "keywords": [
+        "cors",
+        "cross origin",
+        "browser",
+        "frontend",
+        "web app"
+      ]
+    },
+    "SpikeArrest": {
+      "category": "traffic",
+      "keywords": [
+        "spike",
+        "traffic spike",
+        "ddos",
+        "burst protection"
+      ]
+    },
+    "Quota": {
+      "category": "traffic",
+      "keywords": [
+        "rate limit",
+        "throttle",
+        "quota",
+        "usage limit"
+      ]
+    },
+    "AssignMessage": {
+      "category": "headers",
+      "keywords": [
+        "add header",
+        "set header",
+        "modify request",
+        "assign message"
+      ]
+    },
+    "ExtractVariables": {
+      "category": "headers",
+      "keywords": [
+        "extract",
+        "parse",
+        "get value",
+        "json path",
+        "xpath"
+      ]
+    },
+    "RaiseFault": {
+      "category": "error_handling",
+      "keywords": [
+        "error",
+        "fault",
+        "raise error",
+        "custom error",
+        "exception"
+      ]
+    },
+    "JSONToXML": {
+      "category": "transformation",
+      "keywords": [
+        "json to xml",
+        "xml transform",
+        "convert json",
+        "transformation"
+      ]
+    },
+    "XMLToJSON": {
+      "category": "transformation",
+      "keywords": [
+        "xml to json",
+        "json transform",
+        "convert xml"
+      ]
+    },
+    "JSONThreatProtection": {
+      "category": "validation",
+      "keywords": [
+        "validate json",
+        "json validation",
+        "json threat",
+        "security"
+      ]
+    },
+    "RegularExpressionProtection": {
+      "category": "validation",
+      "keywords": [
+        "regex",
+        "regular expression",
+        "pattern validation",
+        "input validation"
+      ]
+    },
+    "ResponseCache": {
+      "category": "caching",
+      "keywords": [
+        "cache",
+        "caching",
+        "response cache",
+        "performance"
+      ]
+    }
+  }
+}
